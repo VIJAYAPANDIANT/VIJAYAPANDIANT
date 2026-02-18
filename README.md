@@ -52,6 +52,12 @@ I enjoy building scalable backend systems, web applications, and AI-powered solu
 
 ---
 
+🚀 Startup & Innovation
+Passionate about building products that solve real-world problems.  
+Interested in joining early-stage startups or collaborating to create impactful tech solutions.
+
+---
+
 🔥 Coding Profiles
 - LeetCode: https://leetcode.com/u/hackervj18/  
 - GeeksforGeeks: https://www.geeksforgeeks.org/profile/vijayapandiant11 
