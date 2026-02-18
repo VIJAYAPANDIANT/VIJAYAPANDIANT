@@ -46,7 +46,7 @@ I enjoy building scalable backend systems, web applications, and AI-powered solu
 ---
 
 🧠 Currently Learning
-- Advanced DSA  
+- Data Structures and Algorithms (Building Strong Foundations) 
 - Backend Development  
 - AI Integration in Applications  
 
