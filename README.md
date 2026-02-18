@@ -1,7 +1,9 @@
 Hi, I'm Vijayapandian T👋
 
-🎓 Sophomore Computer Science Engineering Student  
-💻 Aspiring Software Development Engineer (SDE)  
+🎓 Sophomore Computer Science Engineering Student 
+
+💻 Aspiring Software Development Engineer (SDE)
+
 🤖 Interested in Backend Development & AI Systems  
 
 I enjoy building scalable backend systems, web applications, and AI-powered solutions while continuously improving my problem-solving skills through Data Structures & Algorithms.
@@ -35,7 +37,8 @@ I enjoy building scalable backend systems, web applications, and AI-powered solu
 - GitLab  
 - Eclipse  
 - IntelliJ IDEA  
-- VS Code  
+- VS Code
+- Antigravity  
 
 ---
 
