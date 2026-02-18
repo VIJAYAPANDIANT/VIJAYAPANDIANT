@@ -8,6 +8,8 @@ Hi, I'm Vijayapandian T👋
 
 I enjoy building scalable backend systems, web applications, and AI-powered solutions while continuously improving my problem-solving skills through Data Structures & Algorithms.
 
+---
+
 🚀 Programming Languages
 - Java  
 - Python  
