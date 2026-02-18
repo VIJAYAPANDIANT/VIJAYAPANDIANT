@@ -53,6 +53,7 @@ I enjoy building scalable backend systems, web applications, and AI-powered solu
 ---
 
 🚀 Startup & Innovation
+
 -Passionate about building products that solve real-world problems.  
 -Interested in joining early-stage startups or collaborating to create impactful tech solutions.
 
