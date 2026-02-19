@@ -1,6 +1,6 @@
 Hi, I'm Vijayapandian T👋
 
-🎓 Sophomore Computer Science Engineering Student 
+🎓 Sophomore Computer Science Engineering Student at SRM Easwari Engineering College 
 
 💻 Aspiring Software Development Engineer (SDE)
 
