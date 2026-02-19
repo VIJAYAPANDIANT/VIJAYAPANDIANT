@@ -11,7 +11,7 @@ I enjoy building scalable backend systems, web applications, and AI-powered solu
 ---
 
 🚀 Programming Languages
-- Java                            - Java
+- Java                           
 - Python  
 - C  
 - JavaScript  
