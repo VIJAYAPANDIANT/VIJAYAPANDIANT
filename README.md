@@ -40,8 +40,7 @@ I enjoy building scalable backend systems, web applications, and AI-powered solu
 - Eclipse  
 - IntelliJ IDEA  
 - VS Code
-- Antigravity
-- postman  
+- Antigravity  
 
 ---
 
