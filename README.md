@@ -46,7 +46,8 @@ I enjoy building scalable backend systems, web applications, and AI-powered solu
 
 📊 Data Analytics
 - Excel  
-- Python  
+- Python
+- SQL  
 
 ---
 
