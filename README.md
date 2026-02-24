@@ -68,7 +68,8 @@ I enjoy building scalable backend systems, web applications, and AI-powered solu
 🔥 Coding Profiles
 - LeetCode: https://leetcode.com/u/hackervj18/  
 - GeeksforGeeks: https://www.geeksforgeeks.org/profile/vijayapandiant11 
-- NeetCode: https://neetcode.io/profile/AstuteKami471 
+- NeetCode: https://neetcode.io/profile/AstuteKami471
+- HackerRank: https://www.hackerrank.com/profile/vijayapandian111
 
 ---
 
