@@ -6,7 +6,8 @@ Hi, I'm Vijayapandian T👋
 
 🤖 Strongly Interested in AI Engineering & Backend Systems
 
-I enjoy building scalable backend systems, web applications, and AI-powered solutions while continuously improving my problem-solving skills through Data Structures & Algorithms.
+I enjoy building scalable backend systems, intelligent applications, and web-based solutions while continuously strengthening my problem-solving skills through Data 
+Structures & Algorithms.
 
 ---
 
