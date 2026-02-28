@@ -12,10 +12,10 @@ I enjoy building scalable backend systems, web applications, and AI-powered solu
 
 🚀 Programming Languages
 - Java                           
-- Python  
-- C  
-- JavaScript  
-- SQL  
+- Python 
+- JavaScript 
+- SQL
+- C
 
 ---
 
@@ -36,17 +36,17 @@ I enjoy building scalable backend systems, web applications, and AI-powered solu
 🛠 Tools & Technologies
 - Git  
 - GitHub  
-- GitLab  
-- Eclipse  
-- IntelliJ IDEA  
+- GitLab    
 - VS Code
-- Antigravity  
+- Antigravity
+- Eclipse
+- IntelliJ IDEA  
 
 ---
 
-📊 Data Analytics
-- Excel  
+📊 Data Analytics  
 - Python
+- Excel
 - SQL  
 
 ---
