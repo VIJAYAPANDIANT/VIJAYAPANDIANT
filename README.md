@@ -4,7 +4,7 @@ Hi, I'm Vijayapandian T👋
 
 💻 Aspiring Software Development Engineer (SDE)
 
-🤖 Interested in Backend Development & AI Systems  
+🤖 Strongly Interested in AI Engineering & Backend Systems
 
 I enjoy building scalable backend systems, web applications, and AI-powered solutions while continuously improving my problem-solving skills through Data Structures & Algorithms.
 
