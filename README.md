@@ -67,16 +67,17 @@ I enjoy building scalable backend systems, web applications, and AI-powered solu
 
 🔥 Coding Profiles
 - LeetCode: https://leetcode.com/u/hackervj18/  
-- GeeksforGeeks: https://www.geeksforgeeks.org/profile/vijayapandiant11 
+- GeeksforGeeks: https://www.geeksforgeeks.org/profile/vijayapandiant11  
+- HackerRank: https://www.hackerrank.com/profile/vijayapandian111  
 - NeetCode: https://neetcode.io/profile/AstuteKami471
-- HackerRank: https://www.hackerrank.com/profile/vijayapandian111
 
 ---
 
 📫 Connect With Me
-- Portfolio: https://portfolio-j4uw-flame.vercel.app/  
-- LinkedIn: https://www.linkedin.com/in/vijayapandian-t/ 
+- 📧 Email: vijayapandian112007@gmail.com  
+- 🌐 Portfolio: https://portfolio-j4uw-flame.vercel.app/  
+- 💼 LinkedIn: https://www.linkedin.com/in/vijayapandian-t/
 
 ---
 
-⭐ Always learning. Always building. Always improving.
+⭐ Consistent learning. Practical building. Continuous improvement.
