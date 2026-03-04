@@ -114,6 +114,16 @@ width="60%" />
 
 ---
 
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VIJAYAPANDIANT&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
 ## 🤝 Connect With Me
 
 <div align="center">
