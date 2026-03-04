@@ -66,10 +66,25 @@ I enjoy building scalable backend systems, intelligent applications, and web-bas
 ---
 
 ## 🔥 Coding Profiles
-- 💻 LeetCode: https://leetcode.com/u/hackervj18/  
-- 📘 GeeksforGeeks: https://www.geeksforgeeks.org/profile/vijayapandiant11  
-- 🏆 HackerRank: https://www.hackerrank.com/profile/vijayapandian111  
-- 🎯 NeetCode: https://neetcode.io/profile/AstuteKami471  
+<p align="center">
+
+<a href="https://leetcode.com/u/hackervj18/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/vijayapandiant11" target="_blank">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/vijayapandian111" target="_blank">
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+</a>
+
+<a href="https://neetcode.io/profile/AstuteKami471" target="_blank">
+<img src="https://img.shields.io/badge/NeetCode-000000?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
