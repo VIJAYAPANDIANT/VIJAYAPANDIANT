@@ -94,7 +94,7 @@ I enjoy building scalable backend systems, intelligent applications, and web-bas
 
 <img src="https://komarev.com/ghpvc/?username=VIJAYAPANDIANT&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
-<br><br>
+<br>
 
 <img alt="Vijayapandian GitHub Stats"
 src="https://github-readme-stats.vercel.app/api?username=VIJAYAPANDIANT&show_icons=true&theme=tokyonight&hide_border=true"
