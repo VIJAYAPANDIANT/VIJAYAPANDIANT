@@ -1,12 +1,16 @@
+<p align="center">
+<img src="YOUR_BANNER_LINK_HERE" />
+</p>
+
 # 🚀 Hi, I'm Vijayapandian T 👋
 
 🎓 Sophomore Computer Science Engineering Student  
 🏫 SRM Easwari Engineering College  
 
-💻 Aspiring Software Development Engineer (SDE)  
-🤖 Interested in AI Engineering & Backend Systems  
+💻 Aspiring **Software Development Engineer (SDE)**  
+🤖 Interested in **AI Engineering & Backend Systems**
 
-I enjoy building scalable backend systems, intelligent applications, and web-based solutions while continuously improving my problem-solving skills through Data Structures & Algorithms.
+I enjoy building scalable backend systems, intelligent applications, and web-based solutions while continuously improving my problem-solving skills through **Data Structures & Algorithms**.
 
 ---
 
@@ -36,9 +40,15 @@ I enjoy building scalable backend systems, intelligent applications, and web-bas
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+### 🎨 UI / UX
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
 ### 🛠 Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
@@ -48,16 +58,20 @@ I enjoy building scalable backend systems, intelligent applications, and web-bas
 
 <p align="center">
 
-<a href="https://leetcode.com/u/hackervj18/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-100%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<a href="https://leetcode.com/u/hackervj18/">
+<img src="https://img.shields.io/badge/LeetCode-100+%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="https://www.geeksforgeeks.org/profile/vijayapandiant11" target="_blank">
-<img src="https://img.shields.io/badge/GeeksforGeeks-100%2B%20Problems-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+<a href="https://www.geeksforgeeks.org/profile/vijayapandiant11">
+<img src="https://img.shields.io/badge/GeeksforGeeks-100+%20Problems-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
-<a href="https://www.hackerrank.com/profile/vijayapandian111" target="_blank">
+<a href="https://www.hackerrank.com/profile/vijayapandian111">
 <img src="https://img.shields.io/badge/HackerRank-Problem%20Solver-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+</a>
+
+<a href="https://neetcode.io/profile/AstuteKami471">
+<img src="https://img.shields.io/badge/NeetCode-DSA%20Practice-black?style=for-the-badge"/>
 </a>
 
 </p>
@@ -65,45 +79,52 @@ I enjoy building scalable backend systems, intelligent applications, and web-bas
 ---
 
 ## 🏆 Achievements
-- ✅ Solved **100+ DSA Problems** across LeetCode & GeeksforGeeks  
-- ✅ Active Problem Solver  
-- ✅ Consistent GitHub Learner  
-- ✅ Exploring Startup & Product Development  
+- ✅ Solved **100+ DSA Problems** (LeetCode & GeeksforGeeks)
+- ✅ Active Competitive Programming Learner
+- ✅ Consistent GitHub Contributor
+- ✅ Building Strong Problem Solving Foundation
+
+---
+
+## 🚀 Featured Projects
+- 🔹 Backend Web Applications  
+- 🔹 AI Integrated Applications  
+- 🔹 Full Stack Web Projects  
 
 ---
 
 ## 🚀 Startup & Innovation
-- Passionate about building scalable technology solutions for real-world problems.
-- Actively exploring startup opportunities in Software Development and AI applications.
-- Open to collaborating with developers and innovators to build impactful products.
+- Passionate about building technology-driven solutions for real-world problems.  
+- Actively looking for **startup collaborators & innovation partners**.  
+- Strengthening DSA fundamentals while developing scalable products.
 
 ---
 
-## 📢 Open To Opportunities
-- 💼 Actively seeking **Software Engineering Internship** opportunities
-- 🤖 Interested in **AI Engineering / Machine Learning Internship** roles
-- 🚀 Open to Startup Collaboration and Innovation Projects
-- 🤝 Interested in Technical Co-Founder or Developer Partnerships
+## 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=VIJAYAPANDIANT&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=VIJAYAPANDIANT&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=VIJAYAPANDIANT&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=VIJAYAPANDIANT&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIJAYAPANDIANT&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIJAYAPANDIANT&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=VIJAYAPANDIANT&theme=tokyonight&hide_border=true" width="60%" />
+<img src="https://streak-stats.demolab.com?user=VIJAYAPANDIANT&theme=tokyonight&hide_border=true" width="60%"/>
 
-</div>
+</p>
 
 ---
 
@@ -115,15 +136,22 @@ I enjoy building scalable backend systems, intelligent applications, and web-bas
 
 ---
 
+## 📢 Open To Opportunities
+- 💼 Software Engineering Internships  
+- 🚀 Startup Collaboration  
+- 🤝 Technical Co-Founder Opportunities  
+
+---
+
 ## 🤝 Connect With Me
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/vijayapandian-t/" target="_blank">
+<a href="https://www.linkedin.com/in/vijayapandian-t/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/VIJAYAPANDIANT" target="_blank">
+<a href="https://github.com/VIJAYAPANDIANT">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
