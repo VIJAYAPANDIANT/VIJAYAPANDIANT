@@ -77,11 +77,17 @@ I enjoy building scalable backend systems, intelligent applications, and web-bas
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=VIJAYAPANDIANT&show_icons=true&theme=tokyonight" width="48%" />
+<img src="https://komarev.com/ghpvc/?username=VIJAYAPANDIANT&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIJAYAPANDIANT&layout=compact&theme=tokyonight" width="48%" />
+<br><br>
 
-<img src="https://streak-stats.demolab.com?user=VIJAYAPANDIANT&theme=tokyonight" width="60%" />
+<img src="https://github-readme-stats.vercel.app/api?username=VIJAYAPANDIANT&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIJAYAPANDIANT&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=VIJAYAPANDIANT&theme=tokyonight&hide_border=true" width="60%" />
 
 </div>
 
