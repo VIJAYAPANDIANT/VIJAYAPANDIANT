@@ -54,9 +54,9 @@ I enjoy building scalable backend systems, intelligent applications, and web-bas
 ---
 
 ## 🧠 Currently Learning
-- 📌 Data Structures & Algorithms to strengthen problem-solving and coding fundamentals  
-- 📌 Backend Development using modern server-side technologies  
-- 📌 AI Integration in real-world software applications 
+ 📌 Data Structures & Algorithms to strengthen problem-solving and coding fundamentals  
+ 📌 Backend Development using modern server-side technologies  
+ 📌 AI Integration in real-world software applications 
 
 ---
 
