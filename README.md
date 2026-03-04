@@ -82,9 +82,10 @@ I enjoy building scalable backend systems, intelligent applications, and web-bas
 
 <br><br>
 
-<!-- GitHub Stats + Top Languages -->
+<!-- GitHub Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=VIJAYAPANDIANT&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
 
+<!-- Top Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIJAYAPANDIANT&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
 <br><br>
