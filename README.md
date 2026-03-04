@@ -92,21 +92,23 @@ I enjoy building scalable backend systems, intelligent applications, and web-bas
 
 <div align="center">
 
-<!-- Profile Views -->
 <img src="https://komarev.com/ghpvc/?username=VIJAYAPANDIANT&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
 <br><br>
 
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=VIJAYAPANDIANT&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img alt="Vijayapandian GitHub Stats"
+src="https://github-readme-stats.vercel.app/api?username=VIJAYAPANDIANT&show_icons=true&theme=tokyonight&hide_border=true"
+width="48%" />
 
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIJAYAPANDIANT&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<img alt="Top Programming Languages"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIJAYAPANDIANT&layout=compact&theme=tokyonight&hide_border=true"
+width="48%" />
 
 <br><br>
 
-<!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=VIJAYAPANDIANT&theme=tokyonight&hide_border=true" width="60%" />
+<img alt="GitHub Contribution Streak"
+src="https://streak-stats.demolab.com?user=VIJAYAPANDIANT&theme=tokyonight&hide_border=true"
+width="60%" />
 
 </div>
 
