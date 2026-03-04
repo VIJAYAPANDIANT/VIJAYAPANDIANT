@@ -75,25 +75,16 @@ Interested in joining early-stage startups or collaborating to create impactful 
 
 ## 📊 GitHub Stats
 
----
+<div align="center">
 
-## 📊 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=VIJAYAPANDIANT&show_icons=true&theme=tokyonight" width="48%" />
 
-<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIJAYAPANDIANT&layout=compact&theme=tokyonight" width="48%" />
 
-<img src="https://komarev.com/ghpvc/?username=VIJAYAPANDIANT&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://streak-stats.demolab.com?user=VIJAYAPANDIANT&theme=tokyonight" width="60%" />
 
-<br><br>
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=VIJAYAPANDIANT&show_icons=true&theme=tokyonight" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIJAYAPANDIANT&layout=compact&theme=tokyonight" height="180"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=VIJAYAPANDIANT&theme=tokyonight" height="180"/>
-
-</p>
 ---
 
 ## 📫 Connect With Me
