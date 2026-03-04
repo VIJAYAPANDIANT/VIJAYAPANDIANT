@@ -4,16 +4,9 @@
 🏫 SRM Easwari Engineering College  
 
 💻 **Aspiring Software Development Engineer (SDE)**  
-🤖 Interested in **AI Engineering, Backend Systems & Scalable Applications**
+🤖 Strongly Interested in **AI Engineering & Backend Systems**
 
-I enjoy building backend systems, intelligent applications, and web solutions while continuously improving my problem-solving ability through **Data Structures & Algorithms**.
-
----
-
-## 🧠 Currently Learning
-- 📌 Data Structures & Algorithms  
-- 📌 Backend Development  
-- 📌 AI Integration in Applications  
+I enjoy building scalable backend systems, intelligent applications, and web-based solutions while continuously strengthening my problem-solving skills through **Data Structures & Algorithms**.
 
 ---
 
@@ -42,13 +35,6 @@ I enjoy building backend systems, intelligent applications, and web solutions wh
 
 ---
 
-### 📊 Data Analytics
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
 ### 🛠 Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -59,63 +45,74 @@ I enjoy building backend systems, intelligent applications, and web solutions wh
 
 ---
 
+### 📊 Data Analytics
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 🧠 Currently Learning
+- 📌 Data Structures & Algorithms to strengthen problem-solving and coding fundamentals  
+- 📌 Backend Development using modern server-side technologies  
+- 📌 AI Integration in real-world software applications 
+
+---
+
+## 🚀 Startup & Innovation
+- Passionate about building scalable technology solutions for real-world problems.
+- Actively exploring startup opportunities in Software Development and AI applications.
+- Open to collaborating with developers and innovators to build impactful products.
+
+---
+
 ## 🔥 Coding Profiles
 
 <p align="center">
 
 <a href="https://leetcode.com/u/hackervj18/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-100%2B%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 <a href="https://www.geeksforgeeks.org/profile/vijayapandiant11" target="_blank">
-<img src="https://img.shields.io/badge/GeeksforGeeks-100%2B%20Problems%20Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
 <a href="https://www.hackerrank.com/profile/vijayapandian111" target="_blank">
-<img src="https://img.shields.io/badge/HackerRank-Problem%20Solver-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
 </a>
 
 <a href="https://neetcode.io/profile/AstuteKami471" target="_blank">
-<img src="https://img.shields.io/badge/NeetCode-DSA%20Practice-000000?style=for-the-badge&logo=codeforces&logoColor=white"/>
+<img src="https://img.shields.io/badge/NeetCode-000000?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-## 🚀 Startup & Innovation
-
-- Passionate about building scalable technology solutions that address real-world challenges.
-- Actively exploring startup opportunities in Software Development and AI-driven applications.
-- Open to collaborating with developers and potential startup partners to build impactful products.
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=VIJAYAPANDIANT&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=VIJAYAPANDIANT&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
-<br>
+<br><br>
 
+<!-- GitHub Stats + Languages -->
 <img src="https://github-readme-stats.vercel.app/api?username=VIJAYAPANDIANT&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIJAYAPANDIANT&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
 <br><br>
 
+<!-- Streak -->
 <img src="https://streak-stats.demolab.com?user=VIJAYAPANDIANT&theme=tokyonight&hide_border=true" width="60%" />
 
-</div>
+<br><br>
 
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VIJAYAPANDIANT&theme=tokyo-night&hide_border=true"/>
+<!-- Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VIJAYAPANDIANT&theme=tokyo-night&hide_border=true" width="95%"/>
 
 </div>
 
@@ -141,4 +138,4 @@ I enjoy building backend systems, intelligent applications, and web solutions wh
 
 ---
 
-⭐ **Consistent Learning • Practical Building • Continuous Improvement**
+⭐ **Consistent learning. Practical building. Continuous improvement.**
