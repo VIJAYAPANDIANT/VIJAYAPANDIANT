@@ -1,4 +1,4 @@
-# 🚀 Hi, I'm Vijayapandian T 👋
+#  Hi, I'm Vijayapandian T 👋
 
 🎓 **Sophomore Computer Science Engineering Student**  
 🏫 SRM Easwari Engineering College  
