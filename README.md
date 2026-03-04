@@ -112,7 +112,8 @@ I enjoy building scalable backend systems, intelligent applications, and web-bas
 
 ---
 
-## 📫 Connect With Me
+## 🤝 Connect With Me
+
 <div align="center">
 
 <a href="https://www.linkedin.com/in/vijayapandian-t/" target="_blank">
