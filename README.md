@@ -53,6 +53,20 @@ I enjoy building scalable backend systems, intelligent applications, and web-bas
 
 ---
 
+## 💻 My Favorite Tools & Technologies
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,js,python,html,css,react,mysql,sqlite,postgres,ts,git,github,figma&perline=7" />
+
+<br><br>
+
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+</p>
+
+---
+
 ## 🧠 Currently Learning
  📌 Data Structures & Algorithms to strengthen problem-solving and coding fundamentals  
  📌 Backend Development using modern server-side technologies  
