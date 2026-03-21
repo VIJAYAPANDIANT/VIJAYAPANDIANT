@@ -55,9 +55,7 @@ I enjoy building scalable backend systems, intelligent applications, and web-bas
 
 ## 💻 My Favorite Tools & Technologies
 
-<p align="center">
-
-## 💻 My Favorite Tools & Technologies
+<div align="center">
 
 | 💻 Tech | 💻 Tech | 💻 Tech | 💻 Tech | 💻 Tech | 💻 Tech |
 |--------|--------|--------|--------|--------|--------|
@@ -65,7 +63,7 @@ I enjoy building scalable backend systems, intelligent applications, and web-bas
 | ![MySQL](https://skillicons.dev/icons?i=mysql) <br> MySQL | ![SQLite](https://skillicons.dev/icons?i=sqlite) <br> SQLite | ![Postgres](https://skillicons.dev/icons?i=postgres) <br> PostgreSQL | ![TS](https://skillicons.dev/icons?i=ts) <br> TypeScript | ![Git](https://skillicons.dev/icons?i=git) <br> Git | ![GitHub](https://skillicons.dev/icons?i=github) <br> GitHub |
 | ![Figma](https://skillicons.dev/icons?i=figma) <br> Figma | ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white) <br> Canva |  |  |  |  |
 
-</p>
+</div>
 
 ---
 
