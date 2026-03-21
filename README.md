@@ -53,20 +53,6 @@ I enjoy building scalable backend systems, intelligent applications, and web-bas
 
 ---
 
-## 💻 My Favorite Tools & Technologies
-
-<div align="center">
-
-| 💻 Tech | 💻 Tech | 💻 Tech | 💻 Tech | 💻 Tech | 💻 Tech |
-|--------|--------|--------|--------|--------|--------|
-| ![Java](https://skillicons.dev/icons?i=java) <br> Java | ![JS](https://skillicons.dev/icons?i=js) <br> JavaScript | ![Python](https://skillicons.dev/icons?i=python) <br> Python | ![HTML](https://skillicons.dev/icons?i=html) <br> HTML | ![CSS](https://skillicons.dev/icons?i=css) <br> CSS | ![React](https://skillicons.dev/icons?i=react) <br> React |
-| ![MySQL](https://skillicons.dev/icons?i=mysql) <br> MySQL | ![SQLite](https://skillicons.dev/icons?i=sqlite) <br> SQLite | ![Postgres](https://skillicons.dev/icons?i=postgres) <br> PostgreSQL | ![TS](https://skillicons.dev/icons?i=ts) <br> TypeScript | ![Git](https://skillicons.dev/icons?i=git) <br> Git | ![GitHub](https://skillicons.dev/icons?i=github) <br> GitHub |
-| ![Figma](https://skillicons.dev/icons?i=figma) <br> Figma | ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white) <br> Canva |  |  |  |  |
-
-</div>
-
----
-
 ## 🧠 Currently Learning
  📌 Data Structures & Algorithms to strengthen problem-solving and coding fundamentals  
  📌 Backend Development using modern server-side technologies  
