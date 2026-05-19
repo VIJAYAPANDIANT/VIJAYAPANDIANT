@@ -87,17 +87,55 @@ I enjoy building scalable backend systems, intelligent applications, and web-bas
 
 <div align="center">
 
-💡 **Problem Solving**  
+<table>
+<tr>
 
-🌐 **Web Development**  
+<td align="center" width="200">
+<img src="https://img.icons8.com/fluency/48/source-code.png"/><br>
+<b>Problem Solving</b><br>
+Solving DSA challenges and improving logical thinking
+</td>
 
-🤖 **Artificial Intelligence**  
+<td align="center" width="200">
+<img src="https://img.icons8.com/fluency/48/domain.png"/><br>
+<b>Web Development</b><br>
+Building modern and interactive web applications
+</td>
 
-🎨 **UI/UX Designing**  
+<td align="center" width="200">
+<img src="https://img.icons8.com/fluency/48/artificial-intelligence.png"/><br>
+<b>Artificial Intelligence</b><br>
+Exploring intelligent systems and AI applications
+</td>
 
-🚀 **Startup & Innovation**  
+</tr>
+
+<tr>
+
+<td align="center" width="200">
+<img src="https://img.icons8.com/fluency/48/design.png"/><br>
+<b>UI/UX Designing</b><br>
+Creating visually engaging user experiences
+</td>
+
+<td align="center" width="200">
+<img src="https://img.icons8.com/fluency/48/rocket.png"/><br>
+<b>Startup & Innovation</b><br>
+Transforming ideas into impactful products
+</td>
+
+<td align="center" width="200">
+<img src="https://img.icons8.com/fluency/48/learning.png"/><br>
+<b>Continuous Learning</b><br>
+Learning and adapting to emerging technologies
+</td>
+
+</tr>
+</table>
 
 </div>
+
+---
 
 ---
 
