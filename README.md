@@ -83,6 +83,20 @@ I enjoy building scalable backend systems, intelligent applications, and web-bas
 
 ---
 
+## 🚀 Startup & Innovation
+
+💡 Passionate about building scalable technology solutions for real-world problems  
+
+🚀 Actively exploring startup opportunities in Software Development and AI applications  
+
+🤝 Open to collaborating with developers and innovators to build impactful products  
+
+📈 Interested in transforming ideas into practical and scalable products  
+
+🌍 Focused on creating technology with real-world impact
+
+---
+
 ## 🚀 Interests
 
 <div align="center">
@@ -134,20 +148,6 @@ Learning and adapting to emerging technologies
 </table>
 
 </div>
-
----
-
-## 🚀 Startup & Innovation
-
-💡 Passionate about building scalable technology solutions for real-world problems  
-
-🚀 Actively exploring startup opportunities in Software Development and AI applications  
-
-🤝 Open to collaborating with developers and innovators to build impactful products  
-
-📈 Interested in transforming ideas into practical and scalable products  
-
-🌍 Focused on creating technology with real-world impact  
 
 ---
 
