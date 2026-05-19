@@ -137,8 +137,6 @@ Learning and adapting to emerging technologies
 
 ---
 
----
-
 ## 🚀 Startup & Innovation
 
 💡 Passionate about building scalable technology solutions for real-world problems  
