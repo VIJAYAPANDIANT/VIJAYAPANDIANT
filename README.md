@@ -212,6 +212,10 @@ Staying ahead with emerging technologies and best practices
 <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 
+<a href="https://codeforces.com/profile/vijayapandian112007" target="_blank">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
 <a href="https://www.geeksforgeeks.org/profile/vijayapandiant11" target="_blank">
 <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
@@ -221,7 +225,7 @@ Staying ahead with emerging technologies and best practices
 </a>
 
 <a href="https://neetcode.io/profile/AstuteKami471" target="_blank">
-<img src="https://img.shields.io/badge/NeetCode-000000?style=for-the-badge&logo=codeforces&logoColor=white"/>
+<img src="https://img.shields.io/badge/NeetCode-000000?style=for-the-badge"/>
 </a>
 
 </p>
@@ -260,7 +264,9 @@ Staying ahead with emerging technologies and best practices
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=VIJAYAPANDIANT&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=2&column=7"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIJAYAPANDIANT&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VIJAYAPANDIANT&theme=tokyonight"/>
 
 </div>
 
