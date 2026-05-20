@@ -283,11 +283,16 @@ Staying ahead with emerging technologies and best practices
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                      FOOTER                                -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=130&section=footer&text=Code+Today,+Lead+Tomorrow+🚀&fontSize=24&fontColor=00FFFF&animation=fadeIn&fontAlignY=65" alt="footer"/>
 
 <div align="center">
 
-### ⭐ Consistent Learning • Competitive Coding • Building • Growing
+### ⭐ Code Today, Lead Tomorrow 🚀
 
-**"Code Today, Lead Tomorrow"** 🚀
+<sub>Crafted with ❤️ by <strong><a href="https://github.com/VIJAYAPANDIANT">Vijayapandian T</a></strong> • 2026</sub>
 
 </div>
