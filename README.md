@@ -9,7 +9,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=900&color=00FFFF&center=true&vCenter=true&width=1200&lines=🧠+Building+Intelligent+Backend+Systems;🤖+AI+Engineering;🎓+Sophomore+%40+SRM+Easwari;🚀+Future+Software+Development+Engineer;🧩+Problem+Solver+%7C+250%2B+Problems+Solved" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=900&color=00FFFF&center=true&vCenter=true&width=1200&lines=🧠+Building+Intelligent+Backend+Systems;🤖+AI+Engineering;🎓+Sophomore+%40+SRM+Easwari;🚀+Future+Software+Development+Engineer;🧩+Competitive+Coder+%7C+1000%2B+Problems+Solved" alt="Typing SVG"/>
 </a>
 
 </div>
@@ -19,7 +19,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Focus-AI_%26_Backend-FF6BFF?style=for-the-badge&labelColor=0d1117" alt="focus"/>
 &nbsp;
-<img src="https://img.shields.io/badge/DSA-Actively_Grinding-00FFFF?style=for-the-badge&labelColor=0d1117" alt="dsa"/>
+<img src="https://img.shields.io/badge/DSA-1000%2B_Problems-00FFFF?style=for-the-badge&labelColor=0d1117" alt="dsa"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Status-Open_To_Collaborate-FF6BFF?style=for-the-badge&labelColor=0d1117" alt="status"/>
 </div>
@@ -35,7 +35,7 @@
 💻 **Aspiring Software Development Engineer (SDE)**  
 🤖 Strongly Interested in **AI Engineering & Backend Systems**
 
-I enjoy building scalable backend systems, intelligent applications, and web-based solutions while continuously strengthening my problem-solving skills through **Data Structures & Algorithms**.
+I'm passionate about building scalable backend systems, intelligent applications, and robust web solutions while consistently strengthening my problem-solving skills through **Data Structures & Algorithms**. With a proven track record of solving 1000+ coding problems across multiple platforms, I'm committed to writing clean, efficient, and production-ready code.
 
 ---
 
@@ -59,6 +59,8 @@ I enjoy building scalable backend systems, intelligent applications, and web-bas
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ---
 
@@ -66,6 +68,7 @@ I enjoy building scalable backend systems, intelligent applications, and web-bas
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![DBMS](https://img.shields.io/badge/DBMS-FF9800?style=for-the-badge&logo=database&logoColor=white)
 
 ---
@@ -77,7 +80,7 @@ I enjoy building scalable backend systems, intelligent applications, and web-bas
 
 ---
 
-### 📊 Data Analytics[Basic]
+### 📊 Data Analytics [Basic]
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -96,37 +99,44 @@ I enjoy building scalable backend systems, intelligent applications, and web-bas
 
 ## 🧠 Currently Learning
 
-📌 Data Structures & Algorithms to strengthen problem-solving skills  
+📌 **Advanced Data Structures & Algorithms** — Mastering complex problem-solving techniques and optimization strategies  
 
-📌 Solving coding challenges regularly on LeetCode & GeeksforGeeks  
+📌 **Full-Stack Development** — Building end-to-end applications with modern backend and frontend technologies  
 
-📌 Backend Development using modern server-side technologies  
+📌 **Backend Excellence** — Deepening expertise in server-side technologies, system design, and scalable architectures  
 
-📌 AI Integration in real-world software applications  
+📌 **AI Integration** — Exploring practical applications of machine learning and AI in production systems  
 
 ---
 
 ## 🔥 Problem Solving Journey
 
-✅ Solved *150+ coding problems* across different platforms  
+Competitive programmer with a proven track record across multiple platforms:
 
-✅ Practicing *Data Structures & Algorithms* consistently  
+- **LeetCode**: 200+ problems solved | Consistent weekly practice
+- **CodeChef**: 300+ problems solved | Building competitive coding skills
+- **GeeksforGeeks**: 150+ problems solved | Mastering DSA concepts
+- **Combined Platforms**: 1000+ problems solved across all platforms
+- **Daily Practice**: Strengthening logical thinking and coding fundamentals
 
-✅ Strengthening logical thinking and coding fundamentals  
+**Progress & Achievements**:
+✅ Solved problems spanning all difficulty levels (Easy → Hard)  
+✅ Expert in Arrays, Strings, Trees, Graphs, Dynamic Programming, and more  
+✅ Consistent grind with focus on optimization and clean code  
 
 ---
 
 ## 🚀 Startup & Innovation
 
-💡 Passionate about building scalable technology solutions for real-world problems  
+💡 **Visionary Builder** — Passionate about building scalable technology solutions that solve real-world problems  
 
-🚀 Actively exploring startup opportunities in Software Development and AI applications  
+🚀 **Startup Mindset** — Actively exploring opportunities to launch ventures in Software Development and AI applications  
 
-🤝 Open to collaborating with developers and innovators to build impactful products  
+🤝 **Collaborative Developer** — Open to partnering with innovators and developers to create impactful, game-changing products  
 
-📈 Interested in transforming ideas into practical and scalable products  
+📈 **Scalability Focus** — Committed to transforming ideas into practical, scalable, and revenue-generating products  
 
-🌍 Focused on creating technology with real-world impact
+🌍 **Impact-Driven** — Focused on creating technology that makes a tangible difference in people's lives
 
 ---
 
@@ -140,19 +150,19 @@ I enjoy building scalable backend systems, intelligent applications, and web-bas
 <td align="center" width="200">
 <img src="https://img.icons8.com/fluency/48/source-code.png"/><br>
 <b>Problem Solving</b><br>
-Solving DSA challenges and improving logical thinking
+Tackling DSA challenges and improving algorithmic thinking
 </td>
 
 <td align="center" width="200">
 <img src="https://img.icons8.com/fluency/48/domain.png"/><br>
 <b>Web Development</b><br>
-Building modern and interactive web applications
+Creating modern, interactive, and responsive web applications
 </td>
 
 <td align="center" width="200">
 <img src="https://img.icons8.com/fluency/48/artificial-intelligence.png"/><br>
 <b>Artificial Intelligence</b><br>
-Exploring intelligent systems and AI applications
+Exploring intelligent systems and real-world AI applications
 </td>
 
 </tr>
@@ -162,19 +172,19 @@ Exploring intelligent systems and AI applications
 <td align="center" width="200">
 <img src="https://img.icons8.com/fluency/48/design.png"/><br>
 <b>UI/UX Designing</b><br>
-Creating visually engaging user experiences
+Crafting visually engaging and intuitive user experiences
 </td>
 
 <td align="center" width="200">
 <img src="https://img.icons8.com/fluency/48/rocket.png"/><br>
 <b>Startup & Innovation</b><br>
-Transforming ideas into impactful products
+Transforming visionary ideas into impactful market products
 </td>
 
 <td align="center" width="200">
 <img src="https://img.icons8.com/fluency/48/learning.png"/><br>
 <b>Continuous Learning</b><br>
-Learning and adapting to emerging technologies
+Staying ahead with emerging technologies and best practices
 </td>
 
 </tr>
@@ -184,27 +194,47 @@ Learning and adapting to emerging technologies
 
 ---
 
-## 🔥 Coding Profiles
+## 🔥 Competitive Coding Profiles
 
 <p align="center">
 
 <a href="https://leetcode.com/u/hackervj18/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/LeetCode-200%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.codechef.com/users/vijay_code07" target="_blank">
+<img src="https://img.shields.io/badge/CodeChef-300%2B_Problems-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 
 <a href="https://www.geeksforgeeks.org/profile/vijayapandiant11" target="_blank">
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+<img src="https://img.shields.io/badge/GeeksforGeeks-150%2B_Problems-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
 <a href="https://www.hackerrank.com/profile/vijayapandian111" target="_blank">
-<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+<img src="https://img.shields.io/badge/HackerRank-Expert-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
 </a>
 
 <a href="https://neetcode.io/profile/AstuteKami471" target="_blank">
-<img src="https://img.shields.io/badge/NeetCode-000000?style=for-the-badge&logo=codeforces&logoColor=white"/>
+<img src="https://img.shields.io/badge/NeetCode-Advanced-000000?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
 
 </p>
+
+---
+
+## 💻 Open Source & Projects
+
+<div align="center">
+
+🔗 **Explore My Work**: [GitHub - VIJAYAPANDIANT](https://github.com/VIJAYAPANDIANT)
+
+**Featured Areas**:
+- Backend Systems & API Development
+- Full-Stack Web Applications
+- Algorithm Implementations & DSA Solutions
+- AI/ML Experiments & Prototypes
+
+</div>
 
 ---
 
@@ -241,23 +271,36 @@ Learning and adapting to emerging technologies
 <div align="center">
 
 <a href="https://www.linkedin.com/in/vijayapandian-t/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/VIJAYAPANDIANT" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-My_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="mailto:vijayapandian112007@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
+## 📝 Quick Facts
+
+- **Problem-Solving Mindset**: 1000+ problems solved across leading competitive programming platforms
+- **Full-Stack Capable**: Proficient in frontend (React, TailwindCSS), backend (Node.js, Express, Spring Boot), and databases (MongoDB, PostgreSQL, MySQL)
+- **Code Quality**: Writing clean, maintainable, and efficient code following industry best practices
+- **Continuous Improvement**: Grinding daily on LeetCode and CodeChef to stay sharp
+- **Team Player**: Passionate about collaboration and knowledge sharing
+- **Innovation Focused**: Always exploring new technologies and methodologies
+
+---
+
 <div align="center">
 
-### ⭐ Consistent Learning • Problem Solving • Building • Growing
+### ⭐ Consistent Learning • Competitive Coding • Building • Growing
+
+**"Code Today, Lead Tomorrow"** 🚀
 
 </div>
