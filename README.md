@@ -1,12 +1,24 @@
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    HERO / HEADER SECTION                   -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,30&text=Vijayapandian%20T&fontSize=50&fontAlignY=38&animation=fadeIn&desc=AI%20|%20Backend%20|%20Full%20Stack%20Developer&descAlignY=58"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Aspiring+Software+Development+Engineer;AI+Engineer+%7C+Backend+Developer;337%2B+Problems+Solved;Problem+Solver+%7C+Continuous+Learner;Building+Scalable+Real-World+Projects"/>
-
-<img src="https://komarev.com/ghpvc/?username=VIJAYAPANDIANT&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
+<!-- Animated Wave Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=VIJAYAPANDIAN%20T&fontSize=72&fontColor=00FFFF&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Backend%20Developer%20%7C%20DSA%20Grinder&descAlignY=62&descColor=FF6BFF&descSize=20" alt="header"/>
+<!-- Animated Typing Banner -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=900&color=00FFFF&center=true&vCenter=true&multiline=false&repeat=true&width=820&height=55&lines=Building+Intelligent+Backend+Systems+%F0%9F%A7%A0;AI+Engineering+%7C+Real-World+Solutions+%F0%9F%A4%96;Sophomore+%40+SRM+Easwari+%7C+Future+SDE+%F0%9F%9A%80;Scalable+Apps.+Smart+Code.+Real+Impact.+%E2%9A%A1" alt="Typing SVG" />
+</a>
+<br/>
+<!-- Profile Badge Row -->
+<img src="https://komarev.com/ghpvc/?username=VIJAYAPANDIANT&label=PROFILE+VIEWS&color=00FFFF&style=for-the-badge&labelColor=0d1117" alt="profile views"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Focus-AI_%26_Backend-FF6BFF?style=for-the-badge&labelColor=0d1117" alt="focus"/>
+&nbsp;
+<img src="https://img.shields.io/badge/DSA-Actively_Grinding-00FFFF?style=for-the-badge&labelColor=0d1117" alt="dsa"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Status-Open_To_Collaborate-FF6BFF?style=for-the-badge&labelColor=0d1117" alt="status"/>
 </div>
+<br/>
 
 ---
 
