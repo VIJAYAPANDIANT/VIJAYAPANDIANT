@@ -42,7 +42,9 @@
 💻 **Aspiring Software Development Engineer (SDE)**  
 🤖 Strongly Interested in **AI Engineering & Backend Systems**
 
-I'm passionate about building scalable backend systems, intelligent applications, and robust web solutions while consistently strengthening my problem-solving skills through **Data Structures & Algorithms**. With a proven track record of solving 250+ coding problems across multiple platforms, I'm committed to writing clean, efficient, and production-ready code.
+🚀 Building scalable applications, solving DSA problems, and exploring intelligent systems through real-world projects.
+
+⚡ 250+ Problems Solved Across Coding Platforms | Open to Collaborate
 
 ---
 
