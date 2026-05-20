@@ -239,7 +239,7 @@ Staying ahead with emerging technologies and best practices
 <!-- Profile Views -->
 <img src="https://komarev.com/ghpvc/?username=VIJAYAPANDIANT&label=PROFILE+VIEWS&color=00FFFF&style=for-the-badge&labelColor=0d1117"/>
 
-<br><br>
+<br>
 
 <!-- GitHub Stats + Languages -->
 <table>
@@ -256,17 +256,18 @@ Staying ahead with emerging technologies and best practices
 </tr>
 </table>
 
-<br><br>
+<br>
 
 <!-- Streak -->
 <img src="https://streak-stats.demolab.com?user=VIJAYAPANDIANT&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00FFFF&fire=FF6BFF&currStreakLabel=00FFFF&sideLabels=FF6BFF&currStreakNum=00FFFF&sideNums=c9d1d9&dates=555&border_radius=10" width="55%"/>
 
-<br><br>
+<br>
 
 <!-- Contribution Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=VIJAYAPANDIANT&custom_title=Vijayapandian's%20Contribution%20Activity&bg_color=0d1117&color=00FFFF&line=FF6BFF&point=00FFFF&area_color=0d1117&area=true&hide_border=true" width="97%"/>
 
 </div>
+
 ---
 
 ## 🏆 GitHub Achievements
