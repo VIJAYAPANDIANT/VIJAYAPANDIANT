@@ -9,10 +9,11 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=900&color=00FFFF&center=true&vCenter=true&width=1200&lines=🧠+Building+Intelligent+Backend+Systems;🤖+AI+Engineering;🎓+Sophomore+%40+SRM+Easwari;🚀+Future+Software+Development+Engineer;🧩+Competitive+Coder+%7C+1000%2B+Problems+Solved" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=1000&lines=💻+Building+Intelligent+Backend+Systems;🤖+AI+Engineering+%26+ML;🎓+Sophomore+CS+%40+SRM+Easwari;🚀+Aspiring+Software+Development+Engineer;🧩+Competitive+Coder+%7C+1000%2B+Problems;📱+Full-Stack+Developer;🔥+Open+To+Collaborate" alt="Typing SVG" />
 </a>
 
 </div>
+
 <br/>
 <!-- Profile Badge Row -->
 <img src="https://komarev.com/ghpvc/?username=VIJAYAPANDIANT&label=PROFILE+VIEWS&color=00FFFF&style=for-the-badge&labelColor=0d1117" alt="profile views"/>
