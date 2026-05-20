@@ -1,3 +1,15 @@
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,30&text=Vijayapandian%20T&fontSize=50&fontAlignY=38&animation=fadeIn&desc=AI%20|%20Backend%20|%20Full%20Stack%20Developer&descAlignY=58"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Aspiring+Software+Development+Engineer;AI+Engineer+%7C+Backend+Developer;337%2B+Problems+Solved;Problem+Solver+%7C+Continuous+Learner;Building+Scalable+Real-World+Projects"/>
+
+<img src="https://komarev.com/ghpvc/?username=VIJAYAPANDIANT&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
+
+---
+
 #  Hi, I'm Vijayapandian T 👋
 
 🎓 **Sophomore Computer Science Engineering Student**  
