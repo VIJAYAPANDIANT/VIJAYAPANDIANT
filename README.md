@@ -111,12 +111,31 @@ I'm passionate about building scalable backend systems, intelligent applications
 
 ## 🔥 Problem Solving Journey
 
-Competitive programmer with a proven track record across multiple platforms:
+<div align="center">
 
-- **LeetCode**: 200+ problems solved | Consistent weekly practice
-- **CodeChef**: 300+ problems solved | Building competitive coding skills
-- **GeeksforGeeks**: 150+ problems solved | Mastering DSA concepts
-- **Daily Practice**: Strengthening logical thinking and coding fundamentals
+🏆 **Total Problems Solved: 250+**
+
+</div>
+
+💻 **LeetCode** → 200+ Problems Solved | Consistent Weekly Practice  
+
+☕ **CodeChef** → 300+ Problems Solved | Building Competitive Coding Skills  
+
+🌱 **GeeksforGeeks** → 150+ Problems Solved | Mastering DSA Concepts  
+
+🧠 **Daily Practice** → Strengthening Logical Thinking & Coding Fundamentals  
+
+⚡ **Focus Area** → Data Structures • Algorithms • Problem Solving • Competitive Programming  
+
+🚀 **Goal** → Becoming a Strong Software Development Engineer  
+
+---
+
+<div align="center">
+
+⭐ *Learn → Solve → Improve → Repeat*
+
+</div>
 
 ---
 
