@@ -19,7 +19,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Focus-AI_%26_Backend-FF6BFF?style=for-the-badge&labelColor=0d1117" alt="focus"/>
 &nbsp;
-<img src="https://img.shields.io/badge/DSA-100+%2B_Problems-00FFFF?style=for-the-badge&labelColor=0d1117" alt="dsa"/>
+<img src="https://img.shields.io/badge/DSA-250%2B_Problems-00FFFF?style=for-the-badge&labelColor=0d1117" alt="dsa"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Status-Open_To_Collaborate-FF6BFF?style=for-the-badge&labelColor=0d1117" alt="status"/>
 </div>
@@ -35,7 +35,7 @@
 💻 **Aspiring Software Development Engineer (SDE)**  
 🤖 Strongly Interested in **AI Engineering & Backend Systems**
 
-I'm passionate about building scalable backend systems, intelligent applications, and robust web solutions while consistently strengthening my problem-solving skills through **Data Structures & Algorithms**. With a proven track record of solving 100+ coding problems across multiple platforms, I'm committed to writing clean, efficient, and production-ready code.
+I'm passionate about building scalable backend systems, intelligent applications, and robust web solutions while consistently strengthening my problem-solving skills through **Data Structures & Algorithms**. With a proven track record of solving 250+ coding problems across multiple platforms, I'm committed to writing clean, efficient, and production-ready code.
 
 ---
 
@@ -287,7 +287,7 @@ Staying ahead with emerging technologies and best practices
 <!--                      FOOTER                                -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=130&section=footer&text=Code+Today,+Lead+Tomorrow+🚀&fontSize=24&fontColor=00FFFF&animation=fadeIn&fontAlignY=65" alt="footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=130&section=footer&text=Consistent+Learning.+Practical+Building.+Continuous+Improvement.&fontSize=18&fontColor=00FFFF&animation=fadeIn&fontAlignY=65" alt="footer"/>
 
 <div align="center">
 
