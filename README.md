@@ -30,7 +30,6 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Status-Open_To_Collaborate-FF6BFF?style=for-the-badge&labelColor=0d1117" alt="status"/>
 </div>
-<br/>
 
 ---
 
