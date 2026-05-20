@@ -243,6 +243,7 @@ Staying ahead with emerging technologies and best practices
 <img src="https://komarev.com/ghpvc/?username=VIJAYAPANDIANT&label=PROFILE+VIEWS&color=00FFFF&style=for-the-badge&labelColor=0d1117"/>
 
 <br>
+<br/>
 
 <!-- GitHub Stats + Languages -->
 <table>
