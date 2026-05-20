@@ -118,12 +118,6 @@ I'm passionate about building scalable backend systems, intelligent applications
 
 ## 🔥 Problem Solving Journey
 
-<div align="center">
-
-🏆 **Total Problems Solved: 250+**
-
-</div>
-
 💻 **LeetCode** → 200+ Problems Solved | Consistent Weekly Practice  
 
 ☕ **CodeChef** → 300+ Problems Solved | Building Competitive Coding Skills  
@@ -135,14 +129,6 @@ I'm passionate about building scalable backend systems, intelligent applications
 ⚡ **Focus Area** → Data Structures • Algorithms • Problem Solving • Competitive Programming  
 
 🚀 **Goal** → Becoming a Strong Software Development Engineer  
-
----
-
-<div align="center">
-
-⭐ *Learn → Solve → Improve → Repeat*
-
-</div>
 
 ---
 
