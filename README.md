@@ -19,7 +19,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Focus-AI_%26_Backend-FF6BFF?style=for-the-badge&labelColor=0d1117" alt="focus"/>
 &nbsp;
-<img src="https://img.shields.io/badge/DSA-1000%2B_Problems-00FFFF?style=for-the-badge&labelColor=0d1117" alt="dsa"/>
+<img src="https://img.shields.io/badge/DSA-100+%2B_Problems-00FFFF?style=for-the-badge&labelColor=0d1117" alt="dsa"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Status-Open_To_Collaborate-FF6BFF?style=for-the-badge&labelColor=0d1117" alt="status"/>
 </div>
@@ -35,7 +35,7 @@
 💻 **Aspiring Software Development Engineer (SDE)**  
 🤖 Strongly Interested in **AI Engineering & Backend Systems**
 
-I'm passionate about building scalable backend systems, intelligent applications, and robust web solutions while consistently strengthening my problem-solving skills through **Data Structures & Algorithms**. With a proven track record of solving 1000+ coding problems across multiple platforms, I'm committed to writing clean, efficient, and production-ready code.
+I'm passionate about building scalable backend systems, intelligent applications, and robust web solutions while consistently strengthening my problem-solving skills through **Data Structures & Algorithms**. With a proven track record of solving 100+ coding problems across multiple platforms, I'm committed to writing clean, efficient, and production-ready code.
 
 ---
 
@@ -116,13 +116,7 @@ Competitive programmer with a proven track record across multiple platforms:
 - **LeetCode**: 200+ problems solved | Consistent weekly practice
 - **CodeChef**: 300+ problems solved | Building competitive coding skills
 - **GeeksforGeeks**: 150+ problems solved | Mastering DSA concepts
-- **Combined Platforms**: 1000+ problems solved across all platforms
 - **Daily Practice**: Strengthening logical thinking and coding fundamentals
-
-**Progress & Achievements**:
-✅ Solved problems spanning all difficulty levels (Easy → Hard)  
-✅ Expert in Arrays, Strings, Trees, Graphs, Dynamic Programming, and more  
-✅ Consistent grind with focus on optimization and clean code  
 
 ---
 
@@ -222,22 +216,6 @@ Staying ahead with emerging technologies and best practices
 
 ---
 
-## 💻 Open Source & Projects
-
-<div align="center">
-
-🔗 **Explore My Work**: [GitHub - VIJAYAPANDIANT](https://github.com/VIJAYAPANDIANT)
-
-**Featured Areas**:
-- Backend Systems & API Development
-- Full-Stack Web Applications
-- Algorithm Implementations & DSA Solutions
-- AI/ML Experiments & Prototypes
-
-</div>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -286,16 +264,6 @@ Staying ahead with emerging technologies and best practices
 
 ---
 
-## 📝 Quick Facts
-
-- **Problem-Solving Mindset**: 1000+ problems solved across leading competitive programming platforms
-- **Full-Stack Capable**: Proficient in frontend (React, TailwindCSS), backend (Node.js, Express, Spring Boot), and databases (MongoDB, PostgreSQL, MySQL)
-- **Code Quality**: Writing clean, maintainable, and efficient code following industry best practices
-- **Continuous Improvement**: Grinding daily on LeetCode and CodeChef to stay sharp
-- **Team Player**: Passionate about collaboration and knowledge sharing
-- **Innovation Focused**: Always exploring new technologies and methodologies
-
----
 
 <div align="center">
 
