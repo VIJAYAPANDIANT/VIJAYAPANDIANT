@@ -193,23 +193,23 @@ Staying ahead with emerging technologies and best practices
 <p align="center">
 
 <a href="https://leetcode.com/u/hackervj18/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-200%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 <a href="https://www.codechef.com/users/vijay_code07" target="_blank">
-<img src="https://img.shields.io/badge/CodeChef-300%2B_Problems-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 
 <a href="https://www.geeksforgeeks.org/profile/vijayapandiant11" target="_blank">
-<img src="https://img.shields.io/badge/GeeksforGeeks-150%2B_Problems-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
 <a href="https://www.hackerrank.com/profile/vijayapandian111" target="_blank">
-<img src="https://img.shields.io/badge/HackerRank-Expert-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
 </a>
 
 <a href="https://neetcode.io/profile/AstuteKami471" target="_blank">
-<img src="https://img.shields.io/badge/NeetCode-Advanced-000000?style=for-the-badge&logo=codeforces&logoColor=white"/>
+<img src="https://img.shields.io/badge/NeetCode-000000?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
 
 </p>
