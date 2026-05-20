@@ -4,12 +4,12 @@
 <div align="center">
 <!-- Animated Wave Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=VIJAYAPANDIAN%20T&fontSize=72&fontColor=00FFFF&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Backend%20Developer%20%7C%20DSA%20Grinder&descAlignY=62&descColor=FF6BFF&descSize=20" alt="header"/>
-<!-- Animated Typing Banner with Icons -->
+<!-- Animated Typing Banner -->
 
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=1000&lines=💻+Building+Intelligent+Backend+Systems;🤖+AI+Engineering+%26+ML;🎓+Sophomore+CS+%40+SRM+Easwari;🚀+Aspiring+Software+Development+Engineer;🧩+Competitive+Coder+%7C+1000%2B+Problems;📱+Full-Stack+Developer;🔥+Open+To+Collaborate" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=1200&lines=%F0%9F%92%BB+Building+Intelligent+Backend+Systems;%F0%9F%A4%96+AI+Engineering+%26+ML;%F0%9F%8E%93+Sophomore+CS+%40+SRM+Easwari;%F0%9F%9A%80+Aspiring+Software+Development+Engineer;%F0%9F%A7%A9+Competitive+Coder+%7C+337%2B+Problems;%F0%9F%93%B1+Full-Stack+Developer;%F0%9F%94%A5+Open+To+Collaborate" alt="Typing SVG"/>
 </a>
 
 </div>
