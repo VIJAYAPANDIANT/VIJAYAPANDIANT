@@ -237,38 +237,47 @@ Staying ahead with emerging technologies and best practices
 <div align="center">
 
 <!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=VIJAYAPANDIANT&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=VIJAYAPANDIANT&label=PROFILE+VIEWS&color=00FFFF&style=for-the-badge&labelColor=0d1117"/>
 
 <br><br>
 
 <!-- GitHub Stats + Languages -->
-<img src="https://github-readme-stats.vercel.app/api?username=VIJAYAPANDIANT&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<table>
+<tr>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIJAYAPANDIANT&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<td align="center">
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=VIJAYAPANDIANT&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FFFF&icon_color=FF6BFF&text_color=c9d1d9&border_radius=10&include_all_commits=true&count_private=true"/>
+</td>
+
+<td align="center">
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIJAYAPANDIANT&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FFFF&text_color=c9d1d9&border_radius=10&langs_count=8"/>
+</td>
+
+</tr>
+</table>
 
 <br><br>
 
 <!-- Streak -->
-<img src="https://streak-stats.demolab.com?user=VIJAYAPANDIANT&theme=tokyonight&hide_border=true" width="60%" />
+<img src="https://streak-stats.demolab.com?user=VIJAYAPANDIANT&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00FFFF&fire=FF6BFF&currStreakLabel=00FFFF&sideLabels=FF6BFF&currStreakNum=00FFFF&sideNums=c9d1d9&dates=555&border_radius=10" width="55%"/>
 
 <br><br>
 
 <!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VIJAYAPANDIANT&theme=tokyo-night&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VIJAYAPANDIANT&custom_title=Vijayapandian's%20Contribution%20Activity&bg_color=0d1117&color=00FFFF&line=FF6BFF&point=00FFFF&area_color=0d1117&area=true&hide_border=true" width="97%"/>
 
 </div>
-
 ---
 
 ## 🏆 GitHub Achievements
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIJAYAPANDIANT&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VIJAYAPANDIANT&theme=tokyonight"/>
+<img src="https://github-profile-trophy.vercel.app/?username=VIJAYAPANDIANT&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=2&column=7"/>
 
 </div>
+
+<br>
 
 <div align="center">
 
