@@ -38,7 +38,7 @@
 
 🎓 **Sophomore Computer Science Engineering Student**  
 
-🏫 SRM Easwari Engineering College  
+🏫 **SRM Easwari Engineering College**  
 
 💻 **Aspiring Software Development Engineer (SDE)**  
 
