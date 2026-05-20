@@ -4,10 +4,15 @@
 <div align="center">
 <!-- Animated Wave Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=VIJAYAPANDIAN%20T&fontSize=72&fontColor=00FFFF&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Backend%20Developer%20%7C%20DSA%20Grinder&descAlignY=62&descColor=FF6BFF&descSize=20" alt="header"/>
-<!-- Animated Typing Banner -->
+<!-- Animated Typing Banner with Icons -->
+
+<div align="center">
+
 <a href="https://git.io/typing-svg">
- <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=900&color=00FFFF&center=true&vCenter=true&width=1000&lines=Building+Intelligent+Backend+Systems+🧠;AI+Engineering+🤖;Sophomore+@+SRM+Easwari+🎓;Future+Software+Development+Engineer+🚀;Problem+Solver+%7C+250%2B+Problems+Solved+🧩" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=900&color=00FFFF&center=true&vCenter=true&width=1200&lines=🧠+Building+Intelligent+Backend+Systems;🤖+AI+Engineering;🎓+Sophomore+%40+SRM+Easwari;🚀+Future+Software+Development+Engineer;🧩+Problem+Solver+%7C+250%2B+Problems+Solved" alt="Typing SVG"/>
 </a>
+
+</div>
 <br/>
 <!-- Profile Badge Row -->
 <img src="https://komarev.com/ghpvc/?username=VIJAYAPANDIANT&label=PROFILE+VIEWS&color=00FFFF&style=for-the-badge&labelColor=0d1117" alt="profile views"/>
