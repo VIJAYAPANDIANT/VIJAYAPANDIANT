@@ -37,14 +37,16 @@
 #  Hi, I'm Vijayapandian T 👋
 
 🎓 **Sophomore Computer Science Engineering Student**  
+
 🏫 SRM Easwari Engineering College  
 
 💻 **Aspiring Software Development Engineer (SDE)**  
+
 🤖 Strongly Interested in **AI Engineering & Backend Systems**
 
 🚀 Building scalable applications, solving DSA problems, and exploring intelligent systems through real-world projects.
 
-⚡ 250+ Problems Solved Across Coding Platforms | Open to Collaborate
+⚡**250+ Problems Solved** Across Coding Platforms and **Open to Collaborate**
 
 ---
 
