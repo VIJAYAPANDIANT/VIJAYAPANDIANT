@@ -254,6 +254,28 @@ Staying ahead with emerging technologies and best practices
 
 </div>
 
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=VIJAYAPANDIANT&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=2&column=7"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+![Commits](https://img.shields.io/badge/COMMITS-CONSISTENT-00F5FF?style=for-the-badge)
+
+![DSA](https://img.shields.io/badge/DSA-DAILY_GRIND-FF66FF?style=for-the-badge)
+
+![Open Source](https://img.shields.io/badge/OPEN_SOURCE-ENTHUSIAST-00F5FF?style=for-the-badge)
+
+![Startup](https://img.shields.io/badge/STARTUP-MINDED-FF66FF?style=for-the-badge)
+
+</div>
+
 ---
 
 ## 🤝 Connect With Me
