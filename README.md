@@ -297,7 +297,7 @@ Staying ahead with emerging technologies and best practices
 </a>
 
 <a href="https://github.com/VIJAYAPANDIANT" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-My_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="mailto:vijayapandian112007@gmail.com">
