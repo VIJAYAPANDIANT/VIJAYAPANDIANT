@@ -274,19 +274,17 @@ Staying ahead with emerging technologies and best practices
 
 ---
 
+## 🏆 GitHub Achievements
+
 <div align="center">
 
-<!-- GitHub Trophy -->
 <img src="https://github-profile-trophy.vercel.app/?username=VIJAYAPANDIANT&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=2&column=7"/>
 
 <br><br>
 
-<!-- Custom Achievement Image -->
-<img src="./assets/github-achievements.png" width="500"/>
+<img src="https://raw.githubusercontent.com/VIJAYAPANDIANT/VIJAYAPANDIANT/main/assets/achievements.png" width="350"/>
 
 </div>
-
-<br>
 
 <div align="center">
 
