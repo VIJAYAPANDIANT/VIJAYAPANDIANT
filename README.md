@@ -109,7 +109,7 @@
 
 ## 🧠 Currently Learning
 
-📌 **Data Structures & Algorithms** — Building problem-solving skills by learning arrays, strings, linked lists, sorting, searching, and basic algorithm concepts. 
+📌 **Data Structures & Algorithms** — Building problem-solving with core DSA concepts and algorithms 
 
 📌 **Full-Stack Development** — Building end-to-end applications with modern backend and frontend technologies  
 
