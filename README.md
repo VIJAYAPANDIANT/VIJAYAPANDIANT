@@ -109,7 +109,7 @@
 
 ## 🧠 Currently Learning
 
-📌 **Advanced Data Structures & Algorithms** — Mastering complex problem-solving techniques and optimization strategies  
+📌 **Data Structures & Algorithms** — Building problem-solving skills by learning arrays, strings, linked lists, sorting, searching, and basic algorithm concepts. 
 
 📌 **Full-Stack Development** — Building end-to-end applications with modern backend and frontend technologies  
 
