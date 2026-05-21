@@ -280,11 +280,9 @@ Staying ahead with emerging technologies and best practices
 
 <img src="https://github-profile-trophy.vercel.app/?username=VIJAYAPANDIANT&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=2&column=7"/>
 
-<br><br>
-
-<img src="https://raw.githubusercontent.com/VIJAYAPANDIANT/VIJAYAPANDIANT/main/assets/achievements.png" width="350"/>
-
 </div>
+
+<br>
 
 <div align="center">
 
