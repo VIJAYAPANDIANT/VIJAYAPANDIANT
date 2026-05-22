@@ -109,7 +109,7 @@
 
 ## 🧠 Currently Learning
 
-📌 **Data Structures & Algorithms** — Building problem-solving with core DSA concepts and algorithms 
+📌 **Data Structures & Algorithms** — Building problem-solving skills through core DSA concepts using Java 
 
 📌 **Full-Stack Development** — Building end-to-end applications with modern backend and frontend technologies  
 
