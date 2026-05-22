@@ -40,9 +40,9 @@
 
 💻 **Aspiring Software Development Engineer (SDE)**  
 
-🤖 Strongly Interested in **AI Engineering & Backend Systems**
+🤖 Passionate about **AI Engineering & Backend Systems**
 
-🚀 Building scalable applications, solving DSA problems, and exploring intelligent systems through real-world projects.
+🚀 Building scalable applications, solving DSA challenges, and creating intelligent solutions through real-world projects.
 
 ⚡**250+ Problems Solved** Across Coding Platforms and **Open to Collaborate**
 
