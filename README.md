@@ -40,7 +40,7 @@
 
 💻 **Aspiring Software Development Engineer (SDE)**  
 
-🤖 Passionate about **AI Engineering & Backend Systems**
+🤖 Passionate about **AI Engineering**, **Backend Systems**, and **Scalable Applications**
 
 🚀 Building scalable applications, solving DSA challenges, and creating intelligent solutions through real-world projects.
 
@@ -138,7 +138,7 @@
 
 ## 🚀 Startup & Innovation
 
-💡 **Visionary Builder** — Passionate about creating scalable solutions for real-world challenges
+💡 **Innovation Driven** — Passionate about creating scalable solutions for real-world challenges
 
 🚀 **Startup Mindset** — Actively exploring opportunities to launch ventures in Software Development and AI applications  
 
@@ -277,14 +277,13 @@ Staying ahead with emerging technologies and best practices
 
 ## 🏆 GitHub Achievements
 
-<div align="center">
+<div align="center"> 
 
-<img src="https://github-profile-trophy.vercel.app/?username=VIJAYAPANDIANT&theme=tokyonight&cache_seconds=1800"/>
+<img src="https://github-profile-trophy.vercel.app/?username=VIJAYAPANDIANT&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
 
-</div>
+</div> 
 
 <br>
-
 
 <div align="center">
 
