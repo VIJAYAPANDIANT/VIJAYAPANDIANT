@@ -236,6 +236,78 @@ Staying ahead with emerging technologies and best practices
 
 ---
 
+## ⭐ Featured Projects
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+### 🏥 MediSync AI
+AI-powered healthcare workflow & appointment ecosystem
+
+⚡ Smart appointment scheduling  
+⚡ AI symptom analysis  
+⚡ Electronic health records  
+⚡ Real-time doctor-patient dashboards  
+⚡ Scalable microservice architecture  
+
+🛠 Tech Stack: `Next.js` `Node.js` `Express` `MongoDB` `Prisma` `AI APIs`
+
+</td>
+
+<td width="50%">
+
+### 📦 SupplySphere
+Enterprise supply chain & inventory intelligence platform
+
+⚡ Demand prediction using AI  
+⚡ Warehouse tracking system  
+⚡ Live analytics dashboard  
+⚡ Vendor management system  
+⚡ Distributed scalable architecture  
+
+🛠 Tech Stack: `React` `Spring Boot` `PostgreSQL` `Redis`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 💳 FinPulse AI
+AI-driven financial analytics & fraud detection platform
+
+⚡ Fraud detection engine  
+⚡ Spending insights dashboard  
+⚡ Smart transaction categorization  
+⚡ Predictive analytics  
+⚡ High-performance backend services  
+
+🛠 Tech Stack: `Next.js` `Node.js` `Prisma` `PostgreSQL`
+
+</td>
+
+<td width="50%">
+
+### 🌐 TalentForge
+Next-generation hiring & skill intelligence platform
+
+⚡ AI resume analysis  
+⚡ Skill matching engine  
+⚡ Live coding assessments  
+⚡ Candidate ranking system  
+⚡ Scalable cloud architecture  
+
+🛠 Tech Stack: `React` `Spring Boot` `MongoDB` `AI APIs`
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
