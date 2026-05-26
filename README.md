@@ -279,7 +279,7 @@ Staying ahead with emerging technologies and best practices
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=VIJAYAPANDIANT&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=VIJAYAPANDIANT&theme=tokyonight&cache_seconds=1800"/>
 
 </div>
 
