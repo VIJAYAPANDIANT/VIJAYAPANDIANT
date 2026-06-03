@@ -34,7 +34,7 @@
 
 #  Hi, I'm Vijayapandian T 👋
 
-🎓 **Sophomore Computer Science Engineering Student**  
+🎓 **Pre-Final Year Computer Science Engineering Student**  
 
 🏫 **SRM Easwari Engineering College**  
 
