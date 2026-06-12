@@ -40,11 +40,15 @@
 
 💻 **Aspiring Software Development Engineer (SDE)**  
 
-🤖 Passionate about **AI Engineering**, **Backend Systems**, and **Scalable Applications**
+🤖 Passionate about **Full-Stack Development**, **Backend Systems**, **AI Integration**, and **Scalable Applications**
 
-🚀 Building scalable applications, solving DSA challenges, and creating intelligent solutions through real-world projects.
+🚀 Building real-world applications, solving DSA challenges, and continuously improving software engineering skills
 
-⚡**250+ Problems Solved** Across Coding Platforms and **Open to Collaborate**
+⚡ **250+ Problems Solved** Across Coding Platforms
+
+💡 Interested in building scalable software products and exploring startup opportunities
+
+🤝**Open to Collaborate** on innovative projects and open-source contributions
 
 ---
 
@@ -127,20 +131,6 @@
 
 ---
 
-## 🚀 Startup & Innovation
-
-💡 **Innovation Driven** — Passionate about creating scalable solutions for real-world challenges
-
-🚀 **Startup Mindset** — Actively exploring opportunities to launch ventures in Software Development and AI applications  
-
-🤝 **Collaborative Developer** — Open to partnering with innovators and developers to create impactful, game-changing products  
-
-📈 **Scalability Focus** — Committed to transforming ideas into practical, scalable, and revenue-generating products  
-
-🌍 **Impact-Driven** — Focused on creating technology that makes a tangible difference in people's lives
-
----
-
 ## 🎯 Interests
 
 <div align="center">
@@ -217,10 +207,6 @@ Staying ahead with emerging technologies and best practices
 
 <a href="https://www.hackerrank.com/profile/vijayapandian111" target="_blank">
 <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
-</a>
-
-<a href="https://neetcode.io/profile/AstuteKami471" target="_blank">
-<img src="https://img.shields.io/badge/NeetCode-000000?style=for-the-badge"/>
 </a>
 
 </p>
@@ -347,12 +333,6 @@ Next-generation hiring & skill intelligence platform
 </div> 
 
 <br>
-
-<div align="center">
-
-![Commits](https://img.shields.io/badge/COMMITS-CONSISTENT-00F5FF?style=for-the-badge) ![DSA](https://img.shields.io/badge/DSA-DAILY_GRIND-FF66FF?style=for-the-badge) ![OpenSource](https://img.shields.io/badge/OPEN_SOURCE-ENTHUSIAST-00F5FF?style=for-the-badge) ![Startup](https://img.shields.io/badge/STARTUP-MINDED-FF66FF?style=for-the-badge)
-
-</div>
 
 ---
 
