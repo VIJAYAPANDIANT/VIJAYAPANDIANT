@@ -146,79 +146,89 @@
 ## ⭐ Featured Projects
 
 <div align="center">
+
 <table>
 <tr>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 ### 💬 CommunityHub
 
 Modern community discussion & knowledge-sharing platform
 
-⚡ User authentication & role-based access control
-⚡ Discussion threads and nested comments
-⚡ Upvote & downvote system
-⚡ Real-time notifications
-⚡ Category & tag management
-⚡ Advanced search and filtering
+⚡ User authentication & role management  
+⚡ Discussion threads and nested comments  
+⚡ Upvote & downvote system  
+⚡ Real-time notifications  
+⚡ Category & tag management  
+⚡ Advanced search and filtering  
 
-🛠 Tech Stack: `React.js` `Node.js` `Express.js` `PostgreSQL` `JWT` `Socket.io`
+🛠 Tech Stack:
+`React.js` `Node.js` `Express.js` `PostgreSQL` `JWT` `Socket.io`
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🍽️ FoodFlow
 
 Smart restaurant ordering & management ecosystem
 
-⚡ Online food ordering system
-⚡ Cart & secure checkout
-⚡ Razorpay payment integration
-⚡ Real-time order tracking
-⚡ Inventory management dashboard
-⚡ Sales analytics & reporting
+⚡ Online food ordering system  
+⚡ Cart & secure checkout  
+⚡ Razorpay payment integration  
+⚡ Real-time order tracking  
+⚡ Inventory management dashboard  
+⚡ Sales analytics & reporting  
 
-🛠 Tech Stack: `React.js` `Node.js` `Express.js` `PostgreSQL` `Razorpay` `Chart.js`
+🛠 Tech Stack:
+`React.js` `Node.js` `Express.js` `PostgreSQL` `Razorpay`
 
 </td>
+
 </tr>
 
 <tr>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 ### 🏥 MediSync AI
 
 AI-powered healthcare workflow & appointment ecosystem
 
-⚡ Smart appointment scheduling
-⚡ AI symptom analysis
-⚡ Disease prediction engine
-⚡ Electronic health records
-⚡ Medicine recommendation system
-⚡ Real-time doctor-patient dashboards
+⚡ Smart appointment scheduling  
+⚡ AI symptom analysis  
+⚡ Disease prediction engine  
+⚡ Electronic health records  
+⚡ Medicine recommendation system  
+⚡ Real-time doctor-patient dashboards  
 
-🛠 Tech Stack: `Next.js` `Node.js` `Express.js` `MongoDB` `Python` `TensorFlow` `AI APIs`
+🛠 Tech Stack:
+`Next.js` `Node.js` `Express.js` `MongoDB` `Python` `TensorFlow` `AI APIs`
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🌐 TalentForge AI
 
 Next-generation hiring & skill intelligence platform
 
-⚡ AI resume analysis
-⚡ Skill extraction engine
-⚡ ATS score calculation
-⚡ Job matching system
-⚡ Candidate ranking engine
-⚡ Live coding assessments
+⚡ AI resume analysis  
+⚡ Skill extraction engine  
+⚡ ATS score calculation  
+⚡ Job matching system  
+⚡ Candidate ranking engine  
+⚡ Live coding assessments  
 
-🛠 Tech Stack: `React.js` `Node.js` `MongoDB` `Python` `spaCy` `Scikit-learn` `AI APIs`
+🛠 Tech Stack:
+`React.js` `Node.js` `MongoDB` `Python` `spaCy` `Scikit-learn` `AI APIs`
 
 </td>
+
 </tr>
 </table>
+
 </div>
 
 ---
