@@ -194,7 +194,7 @@
 
 ### 🏥 MediSync AI
 
-**AI-powered healthcare workflow & appointment ecosystem*
+**AI-powered healthcare workflow & appointment ecosystem**
 
 ⚡ Smart appointment scheduling  
 ⚡ AI symptom analysis  
@@ -212,7 +212,7 @@
 
 ### 🌐 TalentForge AI
 
-**Next-generation hiring & skill intelligence platform*
+**Next-generation hiring & skill intelligence platform**
 
 ⚡ AI resume analysis  
 ⚡ Skill extraction engine  
