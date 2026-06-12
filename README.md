@@ -154,7 +154,7 @@
 
 ### 💬 CommunityHub
 
-Modern community discussion & knowledge-sharing platform
+**Modern community discussion & knowledge-sharing platform**
 
 ⚡ User authentication & role management  
 ⚡ Discussion threads and nested comments  
@@ -172,7 +172,7 @@ Modern community discussion & knowledge-sharing platform
 
 ### 🍽️ FoodFlow
 
-Smart restaurant ordering & management ecosystem
+**Smart restaurant ordering & management ecosystem**
 
 ⚡ Online food ordering system  
 ⚡ Cart & secure checkout  
@@ -194,7 +194,7 @@ Smart restaurant ordering & management ecosystem
 
 ### 🏥 MediSync AI
 
-AI-powered healthcare workflow & appointment ecosystem
+**AI-powered healthcare workflow & appointment ecosystem*
 
 ⚡ Smart appointment scheduling  
 ⚡ AI symptom analysis  
@@ -212,7 +212,7 @@ AI-powered healthcare workflow & appointment ecosystem
 
 ### 🌐 TalentForge AI
 
-Next-generation hiring & skill intelligence platform
+**Next-generation hiring & skill intelligence platform*
 
 ⚡ AI resume analysis  
 ⚡ Skill extraction engine  
