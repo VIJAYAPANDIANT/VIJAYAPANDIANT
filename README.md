@@ -115,22 +115,6 @@
 
 ---
 
-## 🔥 Problem Solving Journey
-
-💻 **LeetCode** → 200+ Problems Solved | Consistent Weekly Practice  
-
-☕ **CodeChef** → 300+ Problems Solved | Building Competitive Coding Skills  
-
-🌱 **GeeksforGeeks** → 150+ Problems Solved | Mastering DSA Concepts  
-
-🧠 **Daily Practice** → Strengthening Logical Thinking & Coding Fundamentals  
-
-⚡ **Focus Area** → Data Structures • Algorithms • Problem Solving • Competitive Programming  
-
-🚀 **Goal** → Becoming a Strong Software Development Engineer  
-
----
-
 ## 🎯 Interests
 
 <div align="center">
