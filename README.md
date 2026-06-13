@@ -32,23 +32,23 @@
 
 ---
 
-#  Hi, I'm Vijayapandian T 👋
+# Hi, I'm Vijayapandian T 👋
 
-🎓 **Pre-Final Year Computer Science Engineering Student**  
+🎓 **Pre-Final Year Computer Science Engineering Student**
 
-🏫 **SRM Easwari Engineering College**  
+🏫 **SRM Easwari Engineering College**
 
-💻 **Aspiring Software Development Engineer (SDE)**  
+💻 **Aspiring Software Development Engineer (SDE)**
 
 🤖 Passionate about **Full-Stack Development**, **Backend Systems**, **AI Integration**, and **Scalable Applications**
 
-🚀 Building real-world applications, solving DSA challenges, and continuously improving software engineering skills
+🚀 Building **real-world applications**, solving **DSA challenges**, and continuously improving **software engineering skills**
 
-⚡ **250+ Problems Solved** Across Coding Platforms
+⚡ **250+ DSA Problems Solved** across **LeetCode**, **CodeChef**, and **GeeksforGeeks**
 
-💡 Interested in building scalable software products and exploring startup opportunities
+💡 Interested in **building scalable software products** and exploring **startup opportunities**
 
-🤝**Open to Collaborate** on innovative projects and open-source contributions
+🤝 **Open to Collaborate** on innovative projects and **open-source contributions**
 
 ---
 
