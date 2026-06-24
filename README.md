@@ -4,6 +4,7 @@
 <div align="center">
 <!-- Animated Wave Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Vijayapandian%20T&fontSize=72&fontColor=00FFFF&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Backend%20Developer%20%7C%20Problem%20Solver&descAlignY=62&descColor=FF6BFF&descSize=20" alt="header"/>
+  </div>
 <!-- ═════════════ Animated Developer Banner ═════════════ -->
 <div align="center">
 
