@@ -149,24 +149,14 @@
 <p align="center">
 
 <a href="https://vj-portfolio-website.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Portfolio_Website-Visit_Now-00C4CC?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/🌐_Portfolio_Website-VISIT_NOW-00C4CC?style=for-the-badge" />
 </a>
 
-&nbsp;&nbsp;
-
 <a href="https://vj-achievement-museum.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/🏆_Achievement_Universe-Visit_Now-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/🏆_Achievement_Universe-VISIT_NOW-8A2BE2?style=for-the-badge" />
 </a>
 
 </p>
-
-<div align="center">
-
-🌐 **Explore my portfolio showcasing projects, technical skills, and development journey.**
-
-🏆 **Visit my Achievement Universe featuring certifications, coding achievements, internships, and milestones.**
-
-</div>
 
 ---
 
