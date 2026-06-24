@@ -292,11 +292,11 @@
 
 ## 🏆 GitHub Achievements
 
-<div align="center"> 
+<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=VIJAYAPANDIANT&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=2&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=VIJAYAPANDIANT&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4"/>
 
-</div> 
+</div>
 
 <br>
 
