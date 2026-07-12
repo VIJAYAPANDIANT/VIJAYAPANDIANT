@@ -290,6 +290,20 @@
 
 ---
 
+## 🌍 GitHub Highlights
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=VIJAYAPANDIANT&label=PROFILE+VIEWS&style=for-the-badge&color=00FFFF"/>
+
+<img src="https://img.shields.io/github/followers/VIJAYAPANDIANT?style=for-the-badge&logo=github&label=Followers"/>
+
+<img src="https://img.shields.io/github/stars/VIJAYAPANDIANT?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars"/>
+
+</div>
+
+---
+
 ## 🏆 GitHub Achievements
 
 <div align="center"> 
