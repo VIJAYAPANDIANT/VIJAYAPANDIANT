@@ -166,7 +166,7 @@
   <img src="https://img.shields.io/badge/🌐_Portfolio_Website-VISIT_NOW-00C4CC?style=for-the-badge" />
 </a>
 
-<a href="https://vj-achievement-museum.vercel.app/" target="_blank">
+<a href="https://vj-achievement-universe.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/🏆_Achievement_Universe-VISIT_NOW-8A2BE2?style=for-the-badge" />
 </a>
 
