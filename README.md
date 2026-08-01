@@ -1,10 +1,13 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                    HERO / HEADER SECTION                   -->
 <!-- ═══════════════════════════════════════════════════════════ -->
+
 <div align="center">
-<!-- Animated Wave Header -->
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Vijayapandian%20T&fontSize=72&fontColor=00FFFF&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Backend%20Developer%20%7C%20Problem%20Solver&descAlignY=62&descColor=FF6BFF&descSize=20" alt="header"/>
+  
 <!-- ═════════════ Animated Developer Banner ═════════════ -->
+
 <div align="center">
 
 <a href="https://git.io/typing-svg">
@@ -19,8 +22,8 @@
 
 </div>
 
-<!-- ══════════════════════════════════════════════════════ -->
 <!-- Profile Badge Row -->
+
 <img src="https://komarev.com/ghpvc/?username=VIJAYAPANDIANT&label=PROFILE+VIEWS&color=00FFFF&style=for-the-badge&labelColor=0d1117" alt="profile views"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Focus-AI_%26_Backend-FF6BFF?style=for-the-badge&labelColor=0d1117" alt="focus"/>
@@ -290,11 +293,13 @@
 <br>
 
 <!-- Streak -->
+
 <img src="https://streak-stats.demolab.com?user=VIJAYAPANDIANT&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00FFFF&fire=FF6BFF&currStreakLabel=00FFFF&sideLabels=FF6BFF&currStreakNum=00FFFF&sideNums=c9d1d9&dates=555&border_radius=10" width="55%"/>
 
 <br>
 
 <!-- Contribution Graph -->
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=VIJAYAPANDIANT&custom_title=Vijayapandian's%20Contribution%20Activity&bg_color=0d1117&color=00FFFF&line=FF6BFF&point=00FFFF&area_color=0d1117&area=true&hide_border=true" width="97%"/>
 
 </div>
@@ -330,6 +335,7 @@
 </div>
 
 <!-- Snake Contribution Animation -->
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
