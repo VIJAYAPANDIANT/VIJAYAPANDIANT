@@ -11,7 +11,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=90&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=4000&height=220&lines=%F0%9F%8E%93+Pre-Final+Year+CSE+%40+SRM+Easwari;%F0%9F%9A%80+Aspiring+Software+Development+Engineer;%F0%9F%92%BB+Full+Stack+Developer;%E2%9A%99%EF%B8%8F+Building+Scalable+Backend+%26+AI-Powered+Applications;%F0%9F%A4%96+AI+%26+Machine+Learning+Enthusiast;%F0%9F%A7%A9+Problem+Solver+%E2%80%A2+300%2B+DSA+Problems+Solved;%F0%9F%A4%9D+Open+to+Collaborate+%26+Build" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=90&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=4000&height=220&lines=%F0%9F%8E%93+Pre-Final+Year+CSE+%40+SRM+Easwari;%F0%9F%9A%80+Aspiring+Software+Development+Engineer;%F0%9F%92%BB+Full+Stack+Developer;%E2%9A%99%EF%B8%8F+Building+Scalable+Backend+Systems;%F0%9F%A4%96+AI+%26+Machine+Learning+Enthusiast;%F0%9F%A7%A9+Problem+Solver+%E2%80%A2+300%2B+DSA+Problems+Solved;%F0%9F%A4%9D+Open+to+Collaborate+%26+Build" alt="Typing SVG"/>
 </a>
 
 </div>
