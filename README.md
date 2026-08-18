@@ -304,13 +304,6 @@ instant results and interactive audience engagement.
 
 </tr>
 </table>
-
-<br>
-
-### ⚡ What I Build
-
-`AI Systems` · `Full-Stack Platforms` · `Data Intelligence` · `Real-Time Applications` · `Cloud-Native Solutions`
-
 </div>
 
 ---
