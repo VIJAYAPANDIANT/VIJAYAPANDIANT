@@ -174,7 +174,6 @@
 
 ---
 
-
 ## ⭐ Featured Projects
 
 <div align="center">
@@ -184,37 +183,41 @@
 
 <td width="50%" valign="top">
 
-### 💬 CommunityHub
+### 🌌 IntelliSphere
 
-**Modern community discussion & knowledge-sharing platform**
+**AI-powered cross-industry decision intelligence platform**
 
-⚡ User authentication & role management  
-⚡ Discussion threads and nested comments  
-⚡ Upvote & downvote system  
-⚡ Real-time notifications  
-⚡ Category & tag management  
-⚡ Advanced search and filtering  
+⚡ Unified AI command center with Global Risk Index & Sustainability Score  
+⚡ 42-table relational schema across 4 industry domains  
+⚡ Role-Based Access Control: Super Admin → Org Admin → Analyst → Operator  
+⚡ Interactive GIS overlays with React Leaflet  
+⚡ Gemini-powered risk simulation & automated PDF reporting  
+⚡ Full test suites with Vitest + JUnit and GitHub Actions CI  
 
-🛠 Tech Stack:
-`React.js` `Node.js` `Express.js` `PostgreSQL` `JWT` `Socket.io`
+🛠 Tech Stack:  
+`Spring Boot 3` `Java 21` `React 19` `TypeScript` `Vite` `PostgreSQL` `Zustand` `Apache ECharts` `Docker`
+
+🔗 [Live Demo](https://intellisphere-one.vercel.app/) · 📂 [Source Code](https://github.com/VIJAYAPANDIANT/intellisphere)
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🍽️ FoodFlow
+### 📰 Fake News & Misinformation Detection
 
-**Smart restaurant ordering & management ecosystem**
+**Production-style ML-powered news classification platform**
 
-⚡ Online food ordering system  
-⚡ Cart & secure checkout  
-⚡ Razorpay payment integration  
-⚡ Real-time order tracking  
-⚡ Inventory management dashboard  
-⚡ Sales analytics & reporting  
+⚡ TF-IDF + Logistic Regression machine learning classifier  
+⚡ Dedicated Python FastAPI ML microservice  
+⚡ Real-time predictions with confidence scores  
+⚡ JWT authentication and user accounts  
+⚡ Search history and feedback management  
+⚡ Decoupled React, Express API & ML services  
 
-🛠 Tech Stack:
-`React.js` `Node.js` `Express.js` `PostgreSQL` `Razorpay`
+🛠 Tech Stack:  
+`React 19` `Vite` `Node.js` `Express.js` `MongoDB` `Python` `FastAPI` `Scikit-learn` `NLTK`
+
+🔗 [Live Demo](https://fake-news-and-misinformation-detect.vercel.app/) · 📂 [Source Code](https://github.com/VIJAYAPANDIANT/fake-news-and-misinformation-detection)
 
 </td>
 
@@ -224,41 +227,48 @@
 
 <td width="50%" valign="top">
 
-### 🏥 MediSync AI
+### 🏏 IPL InsightX
 
-**AI-powered healthcare workflow & appointment ecosystem**
+**AI-powered cricket analytics & decision intelligence studio**
 
-⚡ Smart appointment scheduling  
-⚡ AI symptom analysis  
-⚡ Disease prediction engine  
-⚡ Electronic health records  
-⚡ Medicine recommendation system  
-⚡ Real-time doctor-patient dashboards  
+⚡ AI co-pilot generates tactical cricket insights  
+⚡ Batter & bowler performance analytics  
+⚡ Strike-rate and match-phase analysis  
+⚡ Venue and scoring pattern analysis  
+⚡ Python engine for data cleaning & feature engineering  
+⚡ Exportable PDF, CSV & PNG analytics reports  
+⚡ JWT authentication, rate limiting & in-memory caching  
 
-🛠 Tech Stack:
-`Next.js` `Node.js` `Express.js` `MongoDB` `Python` `TensorFlow` `AI APIs`
+🛠 Tech Stack:  
+`Next.js 16` `React 19` `TypeScript` `Node.js` `Express.js` `Python` `Pandas` `NumPy`
+
+🔗 [Live Demo](https://ai-powered-cricket-analytics-studio.vercel.app/) · 📂 [Source Code](https://github.com/VIJAYAPANDIANT/ai-powered-cricket-analytics-studio)
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🌐 TalentForge AI
+### 🗳️ VoteSync
 
-**Next-generation hiring & skill intelligence platform**
+**Real-time event polling & live results platform**
 
-⚡ AI resume analysis  
-⚡ Skill extraction engine  
-⚡ ATS score calculation  
-⚡ Job matching system  
-⚡ Candidate ranking engine  
-⚡ Live coding assessments  
+⚡ Real-time voting with Socket.io  
+⚡ Live animated result charts  
+⚡ Single, multiple, image-choice & open-ended polls  
+⚡ 8 reusable poll templates  
+⚡ JWT authentication with role-based dashboards  
+⚡ Excel export for voter data  
+⚡ PostgreSQL with Neon + Firebase RTDB broadcasting  
 
-🛠 Tech Stack:
-`React.js` `Node.js` `MongoDB` `Python` `spaCy` `Scikit-learn` `AI APIs`
+🛠 Tech Stack:  
+`React 18` `Chakra UI` `Redux` `Node.js` `Express.js` `PostgreSQL` `Neon` `Firebase RTDB` `Socket.io`
+
+🔗 [Live Demo](https://eventpoll-client-a2bl.vercel.app/) · 📂 [Source Code](https://github.com/VIJAYAPANDIANT/event-poll)
 
 </td>
 
 </tr>
+
 </table>
 
 </div>
