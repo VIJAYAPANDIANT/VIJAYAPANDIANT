@@ -174,7 +174,7 @@
 
 ---
 
-## ⭐ Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
@@ -183,41 +183,62 @@
 
 <td width="50%" valign="top">
 
-### 🌌 IntelliSphere
+<h3>🌌 01 · IntelliSphere</h3>
 
-**AI-powered cross-industry decision intelligence platform**
+<p><strong>AI-Powered Decision Intelligence Platform</strong></p>
 
-⚡ Unified AI command center with Global Risk Index & Sustainability Score  
-⚡ 42-table relational schema across 4 industry domains  
-⚡ Role-Based Access Control: Super Admin → Org Admin → Analyst → Operator  
-⚡ Interactive GIS overlays with React Leaflet  
-⚡ Gemini-powered risk simulation & automated PDF reporting  
-⚡ Full test suites with Vitest + JUnit and GitHub Actions CI  
+<p>
+Transforming multi-industry telemetry into intelligent,
+actionable decisions with AI-powered risk analysis.
+</p>
 
-🛠 Tech Stack:  
-`Spring Boot 3` `Java 21` `React 19` `TypeScript` `Vite` `PostgreSQL` `Zustand` `Apache ECharts` `Docker`
+⚡ Global Risk & Sustainability Intelligence  
+⚡ 42-Table Multi-Industry Data Architecture  
+⚡ Gemini AI Risk Simulation & Insights  
+⚡ GIS-Based Interactive Risk Mapping  
+⚡ Role-Based Enterprise Access Control  
+⚡ Automated AI-Powered PDF Reports  
 
-🔗 [Live Demo](https://intellisphere-one.vercel.app/) · 📂 [Source Code](https://github.com/VIJAYAPANDIANT/intellisphere)
+<p>
+<img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+</p>
+
+🔗 **[Live Demo](https://intellisphere-one.vercel.app/)** ·
+📂 **[GitHub](https://github.com/VIJAYAPANDIANT/intellisphere)**
 
 </td>
 
 <td width="50%" valign="top">
 
-### 📰 Fake News & Misinformation Detection
+<h3>📰 02 · Fake News Detection</h3>
 
-**Production-style ML-powered news classification platform**
+<p><strong>ML-Powered Misinformation Intelligence</strong></p>
 
-⚡ TF-IDF + Logistic Regression machine learning classifier  
-⚡ Dedicated Python FastAPI ML microservice  
-⚡ Real-time predictions with confidence scores  
-⚡ JWT authentication and user accounts  
-⚡ Search history and feedback management  
-⚡ Decoupled React, Express API & ML services  
+<p>
+A production-style machine learning system that detects
+fake news using a dedicated prediction microservice.
+</p>
 
-🛠 Tech Stack:  
-`React 19` `Vite` `Node.js` `Express.js` `MongoDB` `Python` `FastAPI` `Scikit-learn` `NLTK`
+⚡ TF-IDF + Logistic Regression Classifier  
+⚡ Dedicated FastAPI ML Microservice  
+⚡ Real-Time Prediction & Confidence Scores  
+⚡ JWT Authentication & User Accounts  
+⚡ Search History & Feedback System  
+⚡ Decoupled Service-Oriented Architecture  
 
-🔗 [Live Demo](https://fake-news-and-misinformation-detect.vercel.app/) · 📂 [Source Code](https://github.com/VIJAYAPANDIANT/fake-news-and-misinformation-detection)
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
+</p>
+
+🔗 **[Live Demo](https://fake-news-and-misinformation-detect.vercel.app/)** ·
+📂 **[GitHub](https://github.com/VIJAYAPANDIANT/fake-news-and-misinformation-detection)**
 
 </td>
 
@@ -227,49 +248,76 @@
 
 <td width="50%" valign="top">
 
-### 🏏 IPL InsightX
+<h3>🏏 03 · IPL InsightX</h3>
 
-**AI-powered cricket analytics & decision intelligence studio**
+<p><strong>AI-Powered Cricket Analytics Studio</strong></p>
 
-⚡ AI co-pilot generates tactical cricket insights  
-⚡ Batter & bowler performance analytics  
-⚡ Strike-rate and match-phase analysis  
-⚡ Venue and scoring pattern analysis  
-⚡ Python engine for data cleaning & feature engineering  
-⚡ Exportable PDF, CSV & PNG analytics reports  
-⚡ JWT authentication, rate limiting & in-memory caching  
+<p>
+Turning raw IPL ball-by-ball data into tactical insights,
+interactive analytics and decision-ready reports.
+</p>
 
-🛠 Tech Stack:  
-`Next.js 16` `React 19` `TypeScript` `Node.js` `Express.js` `Python` `Pandas` `NumPy`
+⚡ AI Cricket Analytics Co-Pilot  
+⚡ Batter & Bowler Performance Intelligence  
+⚡ Strike-Rate & Phase Analysis  
+⚡ Venue & Scoring Pattern Discovery  
+⚡ Pandas/NumPy Data Processing Engine  
+⚡ PDF · CSV · PNG Report Generation  
+⚡ High-Speed API Caching  
 
-🔗 [Live Demo](https://ai-powered-cricket-analytics-studio.vercel.app/) · 📂 [Source Code](https://github.com/VIJAYAPANDIANT/ai-powered-cricket-analytics-studio)
+<p>
+<img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white">
+<img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
+</p>
+
+🔗 **[Live Demo](https://ai-powered-cricket-analytics-studio.vercel.app/)** ·
+📂 **[GitHub](https://github.com/VIJAYAPANDIANT/ai-powered-cricket-analytics-studio)**
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🗳️ VoteSync
+<h3>🗳️ 04 · VoteSync</h3>
 
-**Real-time event polling & live results platform**
+<p><strong>Real-Time Event Polling Platform</strong></p>
 
-⚡ Real-time voting with Socket.io  
-⚡ Live animated result charts  
-⚡ Single, multiple, image-choice & open-ended polls  
-⚡ 8 reusable poll templates  
-⚡ JWT authentication with role-based dashboards  
-⚡ Excel export for voter data  
-⚡ PostgreSQL with Neon + Firebase RTDB broadcasting  
+<p>
+A scalable polling ecosystem built for live participation,
+instant results and interactive audience engagement.
+</p>
 
-🛠 Tech Stack:  
-`React 18` `Chakra UI` `Redux` `Node.js` `Express.js` `PostgreSQL` `Neon` `Firebase RTDB` `Socket.io`
+⚡ Real-Time Voting with Socket.io  
+⚡ Animated Live Result Visualizations  
+⚡ Multiple Poll & Question Types  
+⚡ 8 Reusable Poll Templates  
+⚡ JWT + Role-Based Dashboards  
+⚡ Excel Voter Data Export  
+⚡ PostgreSQL + Firebase Real-Time Broadcasting  
 
-🔗 [Live Demo](https://eventpoll-client-a2bl.vercel.app/) · 📂 [Source Code](https://github.com/VIJAYAPANDIANT/event-poll)
+<p>
+<img src="https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white">
+</p>
+
+🔗 **[Live Demo](https://eventpoll-client-a2bl.vercel.app/)** ·
+📂 **[GitHub](https://github.com/VIJAYAPANDIANT/event-poll)**
 
 </td>
 
 </tr>
-
 </table>
+
+<br>
+
+### ⚡ What I Build
+
+`AI Systems` · `Full-Stack Platforms` · `Data Intelligence` · `Real-Time Applications` · `Cloud-Native Solutions`
 
 </div>
 
