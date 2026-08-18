@@ -165,8 +165,7 @@
 </p>
 
 ---
-
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
@@ -184,12 +183,12 @@ Transforming multi-industry telemetry into intelligent,
 actionable decisions with AI-powered risk analysis.
 </p>
 
-⚡ Global Risk & Sustainability Intelligence
-⚡ 42-Table Multi-Industry Data Architecture
-⚡ Gemini AI Risk Simulation & Insights
-⚡ GIS-Based Interactive Risk Mapping
-⚡ Role-Based Enterprise Access Control
-⚡ Automated AI-Powered PDF Reports
+⚡ Global Risk & Sustainability Intelligence  
+⚡ 42-Table Multi-Industry Data Architecture  
+⚡ Gemini AI Risk Simulation & Insights  
+⚡ GIS-Based Interactive Risk Mapping  
+⚡ Role-Based Enterprise Access Control  
+⚡ Automated AI-Powered PDF Reports  
 
 <p>
 <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
@@ -198,20 +197,8 @@ actionable decisions with AI-powered risk analysis.
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
 </p>
 
-<table>
-<tr>
-<td align="center">
-<a href="https://intellisphere-one.vercel.app/">
-<strong>🔗 Live Demo</strong>
-</a>
-</td>
-<td align="center">
-<a href="https://github.com/VIJAYAPANDIANT/intellisphere">
-<strong>📂 GitHub</strong>
-</a>
-</td>
-</tr>
-</table>
+🔗 **[Live Demo](https://intellisphere-one.vercel.app/)** ·
+📂 **[GitHub](https://github.com/VIJAYAPANDIANT/intellisphere)**
 
 </td>
 
@@ -226,12 +213,12 @@ A production-style machine learning system that detects
 fake news using a dedicated prediction microservice.
 </p>
 
-⚡ TF-IDF + Logistic Regression Classifier
-⚡ Dedicated FastAPI ML Microservice
-⚡ Real-Time Prediction & Confidence Scores
-⚡ JWT Authentication & User Accounts
-⚡ Search History & Feedback System
-⚡ Decoupled Service-Oriented Architecture
+⚡ TF-IDF + Logistic Regression Classifier  
+⚡ Dedicated FastAPI ML Microservice  
+⚡ Real-Time Prediction & Confidence Scores  
+⚡ JWT Authentication & User Accounts  
+⚡ Search History & Feedback System  
+⚡ Decoupled Service-Oriented Architecture  
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
@@ -241,20 +228,8 @@ fake news using a dedicated prediction microservice.
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
 </p>
 
-<table>
-<tr>
-<td align="center">
-<a href="https://fake-news-and-misinformation-detect.vercel.app/">
-<strong>🔗 Live Demo</strong>
-</a>
-</td>
-<td align="center">
-<a href="https://github.com/VIJAYAPANDIANT/fake-news-and-misinformation-detection">
-<strong>📂 GitHub</strong>
-</a>
-</td>
-</tr>
-</table>
+🔗 **[Live Demo](https://fake-news-and-misinformation-detect.vercel.app/)** ·
+📂 **[GitHub](https://github.com/VIJAYAPANDIANT/fake-news-and-misinformation-detection)**
 
 </td>
 
@@ -273,13 +248,13 @@ Turning raw IPL ball-by-ball data into tactical insights,
 interactive analytics and decision-ready reports.
 </p>
 
-⚡ AI Cricket Analytics Co-Pilot
-⚡ Batter & Bowler Performance Intelligence
-⚡ Strike-Rate & Phase Analysis
-⚡ Venue & Scoring Pattern Discovery
-⚡ Pandas/NumPy Data Processing Engine
-⚡ PDF · CSV · PNG Report Generation
-⚡ High-Speed API Caching
+⚡ AI Cricket Analytics Co-Pilot  
+⚡ Batter & Bowler Performance Intelligence  
+⚡ Strike-Rate & Phase Analysis  
+⚡ Venue & Scoring Pattern Discovery  
+⚡ Pandas/NumPy Data Processing Engine  
+⚡ PDF · CSV · PNG Report Generation  
+⚡ High-Speed API Caching  
 
 <p>
 <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white">
@@ -289,20 +264,8 @@ interactive analytics and decision-ready reports.
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
 </p>
 
-<table>
-<tr>
-<td align="center">
-<a href="https://ai-powered-cricket-analytics-studio.vercel.app/">
-<strong>🔗 Live Demo</strong>
-</a>
-</td>
-<td align="center">
-<a href="https://github.com/VIJAYAPANDIANT/ai-powered-cricket-analytics-studio">
-<strong>📂 GitHub</strong>
-</a>
-</td>
-</tr>
-</table>
+🔗 **[Live Demo](https://ai-powered-cricket-analytics-studio.vercel.app/)** ·
+📂 **[GitHub](https://github.com/VIJAYAPANDIANT/ai-powered-cricket-analytics-studio)**
 
 </td>
 
@@ -317,13 +280,13 @@ A scalable polling ecosystem built for live participation,
 instant results and interactive audience engagement.
 </p>
 
-⚡ Real-Time Voting with Socket.io
-⚡ Animated Live Result Visualizations
-⚡ Multiple Poll & Question Types
-⚡ 8 Reusable Poll Templates
-⚡ JWT + Role-Based Dashboards
-⚡ Excel Voter Data Export
-⚡ PostgreSQL + Firebase Real-Time Broadcasting
+⚡ Real-Time Voting with Socket.io  
+⚡ Animated Live Result Visualizations  
+⚡ Multiple Poll & Question Types  
+⚡ 8 Reusable Poll Templates  
+⚡ JWT + Role-Based Dashboards  
+⚡ Excel Voter Data Export  
+⚡ PostgreSQL + Firebase Real-Time Broadcasting  
 
 <p>
 <img src="https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black">
@@ -333,20 +296,8 @@ instant results and interactive audience engagement.
 <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white">
 </p>
 
-<table>
-<tr>
-<td align="center">
-<a href="https://eventpoll-client.vercel.app/">
-<strong>🔗 Live Demo</strong>
-</a>
-</td>
-<td align="center">
-<a href="https://github.com/VIJAYAPANDIANT/event-poll">
-<strong>📂 GitHub</strong>
-</a>
-</td>
-</tr>
-</table>
+🔗 **[Live Demo](https://eventpoll-client-a2bl.vercel.app/)** ·
+📂 **[GitHub](https://github.com/VIJAYAPANDIANT/event-poll)**
 
 </td>
 
@@ -354,7 +305,6 @@ instant results and interactive audience engagement.
 </table>
 
 </div>
-
 
 ---
 
