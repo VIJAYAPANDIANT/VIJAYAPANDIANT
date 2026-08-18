@@ -166,123 +166,93 @@
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 <div align="center">
 
 <table>
 <tr>
 
-<!-- ==================== PROJECT 01 ==================== -->
-
 <td width="50%" valign="top">
 
 <h3>🌌 01 · IntelliSphere</h3>
 
-<p>
-<strong>AI-Powered Decision Intelligence Platform</strong>
-</p>
+<p><strong>AI-Powered Decision Intelligence Platform</strong></p>
 
 <p>
 Transforming multi-industry telemetry into intelligent,
 actionable decisions with AI-powered risk analysis.
 </p>
 
-<p align="left">
-
-⚡ Global Risk & Sustainability Intelligence<br>
-⚡ 42-Table Multi-Industry Data Architecture<br>
-⚡ Gemini AI Risk Simulation & Insights<br>
-⚡ GIS-Based Interactive Risk Mapping<br>
-⚡ Role-Based Enterprise Access Control<br>
+⚡ Global Risk & Sustainability Intelligence
+⚡ 42-Table Multi-Industry Data Architecture
+⚡ Gemini AI Risk Simulation & Insights
+⚡ GIS-Based Interactive Risk Mapping
+⚡ Role-Based Enterprise Access Control
 ⚡ Automated AI-Powered PDF Reports
 
-</p>
-
 <p>
-
 <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
 <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
-
 </p>
 
-<table align="center">
+<table>
 <tr>
-
 <td align="center">
 <a href="https://intellisphere-one.vercel.app/">
-<img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-2563EB?style=for-the-badge" />
+<strong>🔗 Live Demo</strong>
 </a>
 </td>
-
-<td width="12"></td>
-
 <td align="center">
 <a href="https://github.com/VIJAYAPANDIANT/intellisphere">
-<img src="https://img.shields.io/badge/💻%20GITHUB-238636?style=for-the-badge&logo=github&logoColor=white" />
+<strong>📂 GitHub</strong>
 </a>
 </td>
-
 </tr>
 </table>
 
 </td>
 
-<!-- ==================== PROJECT 02 ==================== -->
-
 <td width="50%" valign="top">
 
 <h3>📰 02 · Fake News Detection</h3>
 
-<p>
-<strong>ML-Powered Misinformation Intelligence</strong>
-</p>
+<p><strong>ML-Powered Misinformation Intelligence</strong></p>
 
 <p>
 A production-style machine learning system that detects
 fake news using a dedicated prediction microservice.
 </p>
 
-<p align="left">
-
-⚡ TF-IDF + Logistic Regression Classifier<br>
-⚡ Dedicated FastAPI ML Microservice<br>
-⚡ Real-Time Prediction & Confidence Scores<br>
-⚡ JWT Authentication & User Accounts<br>
-⚡ Search History & Feedback System<br>
+⚡ TF-IDF + Logistic Regression Classifier
+⚡ Dedicated FastAPI ML Microservice
+⚡ Real-Time Prediction & Confidence Scores
+⚡ JWT Authentication & User Accounts
+⚡ Search History & Feedback System
 ⚡ Decoupled Service-Oriented Architecture
 
-</p>
-
 <p>
-
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white">
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
-
 </p>
 
-<table align="center">
+<table>
 <tr>
-
 <td align="center">
 <a href="https://fake-news-and-misinformation-detect.vercel.app/">
-<img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-2563EB?style=for-the-badge" />
+<strong>🔗 Live Demo</strong>
 </a>
 </td>
-
-<td width="12"></td>
-
 <td align="center">
 <a href="https://github.com/VIJAYAPANDIANT/fake-news-and-misinformation-detection">
-<img src="https://img.shields.io/badge/💻%20GITHUB-238636?style=for-the-badge&logo=github&logoColor=white" />
+<strong>📂 GitHub</strong>
 </a>
 </td>
-
 </tr>
 </table>
 
@@ -292,129 +262,99 @@ fake news using a dedicated prediction microservice.
 
 <tr>
 
-<!-- ==================== PROJECT 03 ==================== -->
-
 <td width="50%" valign="top">
 
 <h3>🏏 03 · IPL InsightX</h3>
 
-<p>
-<strong>AI-Powered Cricket Analytics Studio</strong>
-</p>
+<p><strong>AI-Powered Cricket Analytics Studio</strong></p>
 
 <p>
 Turning raw IPL ball-by-ball data into tactical insights,
 interactive analytics and decision-ready reports.
 </p>
 
-<p align="left">
-
-⚡ AI Cricket Analytics Co-Pilot<br>
-⚡ Batter & Bowler Performance Intelligence<br>
-⚡ Strike-Rate & Phase Analysis<br>
-⚡ Venue & Scoring Pattern Discovery<br>
-⚡ Pandas/NumPy Data Processing Engine<br>
-⚡ PDF · CSV · PNG Report Generation<br>
+⚡ AI Cricket Analytics Co-Pilot
+⚡ Batter & Bowler Performance Intelligence
+⚡ Strike-Rate & Phase Analysis
+⚡ Venue & Scoring Pattern Discovery
+⚡ Pandas/NumPy Data Processing Engine
+⚡ PDF · CSV · PNG Report Generation
 ⚡ High-Speed API Caching
 
-</p>
-
 <p>
-
 <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white">
 <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
-
 </p>
 
-<table align="center">
+<table>
 <tr>
-
 <td align="center">
 <a href="https://ai-powered-cricket-analytics-studio.vercel.app/">
-<img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-2563EB?style=for-the-badge" />
+<strong>🔗 Live Demo</strong>
 </a>
 </td>
-
-<td width="12"></td>
-
 <td align="center">
 <a href="https://github.com/VIJAYAPANDIANT/ai-powered-cricket-analytics-studio">
-<img src="https://img.shields.io/badge/💻%20GITHUB-238636?style=for-the-badge&logo=github&logoColor=white" />
+<strong>📂 GitHub</strong>
 </a>
 </td>
-
 </tr>
 </table>
 
 </td>
 
-<!-- ==================== PROJECT 04 ==================== -->
-
 <td width="50%" valign="top">
 
 <h3>🗳️ 04 · VoteSync</h3>
 
-<p>
-<strong>Real-Time Event Polling Platform</strong>
-</p>
+<p><strong>Real-Time Event Polling Platform</strong></p>
 
 <p>
 A scalable polling ecosystem built for live participation,
 instant results and interactive audience engagement.
 </p>
 
-<p align="left">
-
-⚡ Real-Time Voting with Socket.io<br>
-⚡ Animated Live Result Visualizations<br>
-⚡ Multiple Poll & Question Types<br>
-⚡ 8 Reusable Poll Templates<br>
-⚡ JWT + Role-Based Dashboards<br>
-⚡ Excel Voter Data Export<br>
+⚡ Real-Time Voting with Socket.io
+⚡ Animated Live Result Visualizations
+⚡ Multiple Poll & Question Types
+⚡ 8 Reusable Poll Templates
+⚡ JWT + Role-Based Dashboards
+⚡ Excel Voter Data Export
 ⚡ PostgreSQL + Firebase Real-Time Broadcasting
 
-</p>
-
 <p>
-
 <img src="https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white">
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white">
-
 </p>
 
-<table align="center">
+<table>
 <tr>
-
 <td align="center">
 <a href="https://eventpoll-client.vercel.app/">
-<img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-2563EB?style=for-the-badge" />
+<strong>🔗 Live Demo</strong>
 </a>
 </td>
-
-<td width="12"></td>
-
 <td align="center">
 <a href="https://github.com/VIJAYAPANDIANT/event-poll">
-<img src="https://img.shields.io/badge/💻%20GITHUB-238636?style=for-the-badge&logo=github&logoColor=white" />
+<strong>📂 GitHub</strong>
 </a>
 </td>
-
 </tr>
 </table>
 
 </td>
 
 </tr>
-
 </table>
 
 </div>
+
 
 ---
 
