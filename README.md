@@ -305,7 +305,7 @@ instant results and interactive audience engagement.
 <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white">
 </p>
 
-🔗 **[Live Demo](https://eventpoll-client-a2bl.vercel.app/)** ·
+🔗 **[Live Demo](https://eventpoll-client.vercel.app/)** ·
 📂 **[GitHub](https://github.com/VIJAYAPANDIANT/event-poll)**
 
 </td>
