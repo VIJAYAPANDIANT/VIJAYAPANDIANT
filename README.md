@@ -43,7 +43,7 @@
 
 💻 **Aspiring Software Development Engineer (SDE)**
 
-🤖 Passionate about **Full-Stack Development**, **Backend Systems**, **AI Integration**, and **Scalable Applications**
+🤖 Passionate about **Full-Stack Development**, **Backend Systems**, **AI/ML Integration**, and **Scalable Applications**
 
 🚀 Building **real-world applications**, solving **DSA challenges**, and continuously improving **software engineering skills**
 
