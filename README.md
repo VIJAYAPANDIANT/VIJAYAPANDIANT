@@ -57,7 +57,42 @@
 
 ## 🎯 Top Skills
 
-<table align="center"> <tr> <td align="center" width="90"> <img src="https://skillicons.dev/icons?i=java" width="55" height="55" alt="Java" /> <br>Java </td> <td align="center" width="90"> <img src="https://skillicons.dev/icons?i=python" width="55" height="55" alt="Python" /> <br>Python </td> <td align="center" width="90"> <img src="https://skillicons.dev/icons?i=react" width="55" height="55" alt="React" /> <br>React </td> <td align="center" width="90"> <img src="https://skillicons.dev/icons?i=javascript" width="55" height="55" alt="JavaScript" /> <br>JavaScript </td> <td align="center" width="90"> <img src="https://skillicons.dev/icons?i=spring" width="55" height="55" alt="Spring Boot" /> <br>Spring Boot </td> <td align="center" width="90"> <img src="https://skillicons.dev/icons?i=mysql" width="55" height="55" alt="MySQL" /> <br>MySQL </td> <td align="center" width="90"> <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="55" height="55" alt="REST API" /> <br>REST API </td> <td align="center" width="90"> <img src="https://skillicons.dev/icons?i=postman" width="55" height="55" alt="Postman" /> <br>Postman </td> </tr> </table> <br />
+<table align="center">
+    <tr>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=java" width="55" height="55" alt="Java" />
+            <br>Java
+        </td>
+        <td align="center" width="90">
+            <img src="https://techstack-generator.vercel.app/python-icon.svg" width="55" height="55" alt="Python" />
+            <br>Python
+        </td>
+        <td align="center" width="90">
+            <img src="https://techstack-generator.vercel.app/react-icon.svg" width="55" height="55" alt="React" />
+            <br>React
+        </td>
+        <td align="center" width="90">
+            <img src="https://techstack-generator.vercel.app/js-icon.svg" width="55" height="55" alt="JavaScript" />
+            <br>JavaScript
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=spring" width="55" height="55" alt="Spring Boot" />
+            <br>Spring Boot
+        </td>
+        <td align="center" width="90">
+            <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="55" height="55" alt="MySQL" />
+            <br>MySQL
+        </td>
+        <td align="center" width="90">
+            <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="55" height="55" alt="REST API" />
+            <br>REST API
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=postman" width="55" height="55" alt="Postman" />
+            <br>Postman
+        </td>
+    </tr>
+</table>
 
 ---
 
