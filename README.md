@@ -56,24 +56,24 @@
 <table align="center">
     <tr>
         <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/java-icon.svg" width="55" height="55" alt="Java" />
+            <img src="https://skillicons.dev/icons?i=java" width="55" height="55" alt="Java" />
             <br>Java
-        </td>
-        <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/spring-icon.svg" width="55" height="55" alt="Spring Boot" />
-            <br>Spring Boot
-        </td>
-        <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/react-icon.svg" width="55" height="55" alt="React" />
-            <br>React
         </td>
         <td align="center" width="90">
             <img src="https://techstack-generator.vercel.app/python-icon.svg" width="55" height="55" alt="Python" />
             <br>Python
         </td>
         <td align="center" width="90">
+            <img src="https://techstack-generator.vercel.app/react-icon.svg" width="55" height="55" alt="React" />
+            <br>React
+        </td>
+        <td align="center" width="90">
             <img src="https://techstack-generator.vercel.app/js-icon.svg" width="55" height="55" alt="JavaScript" />
             <br>JavaScript
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=spring" width="55" height="55" alt="Spring Boot" />
+            <br>Spring Boot
         </td>
         <td align="center" width="90">
             <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="55" height="55" alt="MySQL" />
@@ -83,11 +83,14 @@
             <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="55" height="55" alt="REST API" />
             <br>REST API
         </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=postman" width="55" height="55" alt="Postman" />
+            <br>Postman
+        </td>
     </tr>
-
     <tr>
         <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" width="55" height="55" alt="Node.js" />
+            <img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55" alt="Node.js" />
             <br>Node.js
         </td>
         <td align="center" width="90">
@@ -103,17 +106,12 @@
             <br>MongoDB
         </td>
         <td align="center" width="90">
-            <img src="https://cdn.simpleicons.org/jsonwebtokens" width="55" height="55" alt="JWT" />
+            <img src="https://cdn.simpleicons.org/jsonwebtokens/d63aff" width="55" height="55" alt="JWT" />
             <br>JWT
-        </td>
-        <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=postman" width="55" height="55" alt="Postman" />
-            <br>Postman
         </td>
     </tr>
 </table>
 
-<br />
 ---
 
 ## 🛠️ Tech Stack
