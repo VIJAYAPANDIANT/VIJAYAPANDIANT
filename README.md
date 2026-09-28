@@ -203,15 +203,15 @@
 <p align="center">
 
 <a href="https://leetcode.com/u/hackervj18/">
-<img src="https://img.shields.io/badge/LeetCode-300%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/LeetCode-400%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 <a href="https://www.codechef.com/users/vijay_code07">
-<img src="https://img.shields.io/badge/CodeChef-300%2B%20Problems-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+<img src="https://img.shields.io/badge/CodeChef-350%2B%20Problems-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 
 <a href="https://www.geeksforgeeks.org/profile/vijayapandiant11">
-<img src="https://img.shields.io/badge/GeeksforGeeks-250%2B%20Problems-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+<img src="https://img.shields.io/badge/GeeksforGeeks-300%2B%20Problems-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
 </p>
