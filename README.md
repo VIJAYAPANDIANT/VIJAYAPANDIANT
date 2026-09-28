@@ -109,6 +109,22 @@
             <img src="https://cdn.simpleicons.org/jsonwebtokens/d63aff" width="55" height="55" alt="JWT" />
             <br>JWT
         </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=vercel" width="55" height="55" alt="Vercel" />
+            <br>Vercel
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=sqlite" width="55" height="55" alt="SQLite" />
+            <br>SQLite
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=threejs" width="55" height="55" alt="Three.js" />
+            <br>Three.js
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=supabase" width="55" height="55" alt="Supabase" />
+            <br>Supabase
+        </td>
     </tr>
 </table>
 
