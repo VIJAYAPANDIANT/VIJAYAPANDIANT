@@ -118,10 +118,6 @@
             <br>SQLite
         </td>
         <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=threejs" width="55" height="55" alt="Three.js" />
-            <br>Three.js
-        </td>
-        <td align="center" width="90">
             <img src="https://skillicons.dev/icons?i=supabase" width="55" height="55" alt="Supabase" />
             <br>Supabase
         </td>
