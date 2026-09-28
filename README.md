@@ -83,10 +83,6 @@
             <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="55" height="55" alt="REST API" />
             <br>REST API
         </td>
-        <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/postman-icon.svg" width="55" height="55" alt="Postman" />
-            <br>Postman
-        </td>
     </tr>
 
     <tr>
@@ -95,26 +91,29 @@
             <br>Node.js
         </td>
         <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/express-icon.svg" width="55" height="55" alt="Express.js" />
+            <img src="https://skillicons.dev/icons?i=express" width="55" height="55" alt="Express.js" />
             <br>Express.js
         </td>
         <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/postgresql-icon.svg" width="55" height="55" alt="PostgreSQL" />
+            <img src="https://skillicons.dev/icons?i=postgres" width="55" height="55" alt="PostgreSQL" />
             <br>PostgreSQL
         </td>
         <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" width="55" height="55" alt="MongoDB" />
+            <img src="https://skillicons.dev/icons?i=mongodb" width="55" height="55" alt="MongoDB" />
             <br>MongoDB
         </td>
         <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/jwt-icon.svg" width="55" height="55" alt="JWT" />
+            <img src="https://cdn.simpleicons.org/jsonwebtokens" width="55" height="55" alt="JWT" />
             <br>JWT
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=postman" width="55" height="55" alt="Postman" />
+            <br>Postman
         </td>
     </tr>
 </table>
 
 <br />
-
 ---
 
 ## 🛠️ Tech Stack
