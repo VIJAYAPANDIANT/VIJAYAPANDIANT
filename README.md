@@ -222,7 +222,7 @@
 
 <p align="center">
 
-<a href="https://vj-portfolio-website.vercel.app/" target="_blank">
+<a href="https://vijayapandian-t-portfolio.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/🌐_Portfolio_Website-VISIT_NOW-00C4CC?style=for-the-badge" />
 </a>
 
