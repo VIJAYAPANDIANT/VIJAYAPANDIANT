@@ -106,8 +106,8 @@
             <br>MongoDB
         </td>
         <td align="center" width="90">
-            <img src="https://cdn.simpleicons.org/jsonwebtokens/d63aff" width="55" height="55" alt="JWT" />
-            <br>JWT
+            <img src="https://cdn.simpleicons.org/jsonwebtokens/d63aff" width="55" height="55" alt="JWT Authentication" />
+            <br>JWT Authentication
         </td>
         <td align="center" width="90">
             <img src="https://skillicons.dev/icons?i=vercel" width="55" height="55" alt="Vercel" />
