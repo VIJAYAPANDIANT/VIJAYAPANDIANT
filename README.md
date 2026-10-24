@@ -252,7 +252,7 @@ A full-stack online exam platform with automated proctoring,
 a multi-language code editor, and real-time rankings.
 </p>
 
-⚡ Multi-Language Coding Compiler (Java, Python, JavaScript, C, C++)  
+⚡ Multi-Language Coding Compiler (Java, Python, JS, C, C++)  
 ⚡ Automated Proctoring with Violation Points  
 ⚡ Tab-Switch Tracking & Auto-Termination  
 ⚡ Redis-Powered Real-Time Leaderboard  
