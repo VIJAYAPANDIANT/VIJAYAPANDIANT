@@ -7,9 +7,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Vijayapandian%20T&fontSize=72&fontColor=00FFFF&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Backend%20Developer%20%7C%20Problem%20Solver&descAlignY=62&descColor=FF6BFF&descSize=20" alt="header"/>
 
 <div align="center">
-
+  
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=35&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=1000&height=180&lines=%F0%9F%8E%93+Pre-Final+Year+CSE+%40+SRM+Easwari;%F0%9F%9A%80+Aspiring+Software+Development+Engineer;%F0%9F%92%BB+Full+Stack+Developer;%E2%9A%99%EF%B8%8F+Building+Scalable+Backend+Systems;%F0%9F%A4%96+AI+%26+Machine+Learning+Enthusiast;%F0%9F%A7%A9+Problem+Solver+%E2%80%A2+450%2B+DSA+Problems+Solved;%F0%9F%A4%9D+Open+to+Collaborate+%26+Build" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=90&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=4000&height=220&lines=%F0%9F%8E%93+Pre-Final+Year+CSE+%40+SRM+Easwari;%F0%9F%9A%80+Aspiring+Software+Development+Engineer;%F0%9F%92%BB+Full+Stack+Developer;%E2%9A%99%EF%B8%8F+Building+Scalable+Backend+Systems;%F0%9F%A4%96+AI+%26+Machine+Learning+Enthusiast;%F0%9F%A7%A9+Problem+Solver+%E2%80%A2+450%2B+DSA+Problems+Solved;%F0%9F%A4%9D+Open+to+Collaborate+%26+Build" alt="Typing SVG"/>
 </a>
 
 </div>
@@ -24,7 +24,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Focus-AI_%26_Backend-FF6BFF?style=for-the-badge&labelColor=0d1117" alt="focus"/>
 &nbsp;
-<img src="https://img.shields.io/badge/DSA-400%2B_Problems-00FFFF?style=for-the-badge&labelColor=0d1117" alt="dsa"/>
+<img src="https://img.shields.io/badge/DSA-450%2B_Problems-00FFFF?style=for-the-badge&labelColor=0d1117" alt="dsa"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Status-Open_To_Collaborate-FF6BFF?style=for-the-badge&labelColor=0d1117" alt="status"/>
 </div>
