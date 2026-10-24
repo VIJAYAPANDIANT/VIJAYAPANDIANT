@@ -238,35 +238,38 @@
 <div align="center">
 
 <table>
+  
 <tr>
 
 <td width="50%" valign="top">
 
-<h3>🌌 01 · IntelliSphere</h3>
+<h3>🛡️ 01 · Online Examination System</h3>
 
-<p><strong>AI-Powered Decision Intelligence Platform</strong></p>
+<p><strong>Proctored Exam & Coding Assessment Platform</strong></p>
 
 <p>
-Transforming multi-industry telemetry into intelligent,
-actionable decisions with AI-powered risk analysis.
+A full-stack online exam platform with automated proctoring,
+a multi-language code editor, and real-time rankings.
 </p>
 
-⚡ Global Risk & Sustainability Intelligence  
-⚡ 42-Table Multi-Industry Data Architecture  
-⚡ Gemini AI Risk Simulation & Insights  
-⚡ GIS-Based Interactive Risk Mapping  
-⚡ Role-Based Enterprise Access Control  
-⚡ Automated AI-Powered PDF Reports  
+⚡ Multi-Language Coding Compiler (Java, Python, JavaScript, C, C++)  
+⚡ Automated Proctoring with Violation Points  
+⚡ Tab-Switch Tracking & Auto-Termination  
+⚡ Redis-Powered Real-Time Leaderboard  
+⚡ RabbitMQ Queue for Concurrent Submissions  
+⚡ Admin Dashboard with Live Session Alerts (WebSocket)  
 
 <p>
-<img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
-<img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black">
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
 </p>
 
-🔗 **[Live Demo](https://intellisphere-one.vercel.app/)** ·
-📂 **[GitHub](https://github.com/VIJAYAPANDIANT/intellisphere)**
+🔗 **[Live Demo](https://online-examination-system-m6sf.vercel.app/)** ·
+📂 **[GitHub](https://github.com/VIJAYAPANDIANT/online-examination-system)**
 
 </td>
 
