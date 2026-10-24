@@ -9,7 +9,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=90&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=4000&height=220&lines=%F0%9F%8E%93+Pre-Final+Year+CSE+%40+SRM+Easwari;%F0%9F%9A%80+Aspiring+Software+Development+Engineer;%F0%9F%92%BB+Full+Stack+Developer;%E2%9A%99%EF%B8%8F+Building+Scalable+Backend+Systems;%F0%9F%A4%96+AI+%26+Machine+Learning+Enthusiast;%F0%9F%A7%A9+Problem+Solver+%E2%80%A2+400%2B+DSA+Problems+Solved;%F0%9F%A4%9D+Open+to+Collaborate+%26+Build" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=90&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=4000&height=220&lines=%F0%9F%8E%93+Pre-Final+Year+CSE+%40+SRM+Easwari;%F0%9F%9A%80+Aspiring+Software+Development+Engineer;%F0%9F%92%BB+Full+Stack+Developer;%E2%9A%99%EF%B8%8F+Building+Scalable+Backend+Systems;%F0%9F%A4%96+AI+%26+Machine+Learning+Enthusiast;%F0%9F%A7%A9+Problem+Solver+%E2%80%A2+450%2B+DSA+Problems+Solved;%F0%9F%A4%9D+Open+to+Collaborate+%26+Build" alt="Typing SVG"/>
 </a>
 
 </div>
@@ -43,7 +43,7 @@
 
 🚀 Building **real-world applications**, solving **DSA challenges**, and continuously improving **software engineering skills**
 
-⚡ **400+ DSA Problems Solved** across **LeetCode**, **CodeChef**, and **GeeksforGeeks**
+⚡ **450+ DSA Problems Solved** across **LeetCode**, **CodeChef**, and **GeeksforGeeks**
 
 💡 Interested in **building scalable software products** and exploring **startup opportunities**
 
@@ -203,7 +203,7 @@
 <p align="center">
 
 <a href="https://leetcode.com/u/hackervj18/">
-<img src="https://img.shields.io/badge/LeetCode-400%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/LeetCode-450%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 <a href="https://www.codechef.com/users/vijay_code07">
